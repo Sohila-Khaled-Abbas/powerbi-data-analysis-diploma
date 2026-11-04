@@ -1,0 +1,133 @@
+EmployeeID,Name
+EmployeeID,2
+Name,Kayla Woodcock
+PreferredName,Kayla
+IsSalesperson,TRUE
+EmailAddress,kaylaw@wideworldimporters.com
+OtherLanguages,"[""Polish"",""Chinese"",""Japanese""]"
+,
+EmployeeID,3
+Name,Hudson Onslow
+PreferredName,Hudson
+IsSalesperson,TRUE
+EmailAddress,hudsono@wideworldimporters.com
+OtherLanguages,[]
+,
+EmployeeID,10
+Name,Stella Rosenhain
+PreferredName,Stella
+IsSalesperson,FALSE
+EmailAddress,stellar@wideworldimporters.com
+OtherLanguages,"[""Dutch"",""Finnish"",""Lithuanian""]"
+,
+EmployeeID,11
+Name,Ethan Onslow
+PreferredName,Ethan
+IsSalesperson,FALSE
+EmailAddress,ethano@wideworldimporters.com
+OtherLanguages,[]
+,
+EmployeeID,12
+Name,Henry Forlonge
+PreferredName,Henry
+IsSalesperson,FALSE
+EmailAddress,henryf@wideworldimporters.com
+OtherLanguages,"[""Greek"",""Slovak""]"
+,
+EmployeeID,13
+Name,Hudson Hollinworth
+PreferredName,Hudson
+IsSalesperson,TRUE
+EmailAddress,hudsonh@wideworldimporters.com
+OtherLanguages,"[""Croatian""]"
+,
+EmployeeID,14
+Name,Lily Code
+PreferredName,Lily
+IsSalesperson,TRUE
+EmailAddress,lilyc@wideworldimporters.com
+OtherLanguages,"[""Finnish"",""Bulgarian""]"
+,
+EmployeeID,15
+Name,Taj Shand
+PreferredName,Taj
+IsSalesperson,TRUE
+EmailAddress,tajs@wideworldimporters.com
+OtherLanguages,"[""Arabic"",""Greek""]"
+,
+EmployeeID,16
+Name,Archer Lamble
+PreferredName,Archer
+IsSalesperson,TRUE
+EmailAddress,archerl@wideworldimporters.com
+OtherLanguages,"[""Greek""]"
+,
+EmployeeID,17
+Name,Piper Koch
+PreferredName,Piper
+IsSalesperson,FALSE
+EmailAddress,piperk@wideworldimporters.com
+OtherLanguages,"[""Romanian"",""Portuguese""]"
+,
+EmployeeID,18
+Name,Katie Darwin
+PreferredName,Katie
+IsSalesperson,FALSE
+EmailAddress,katied@wideworldimporters.com
+OtherLanguages,"[""Estonian"",""Romanian""]"
+,
+EmployeeID,19
+Name,Jai Shand
+PreferredName,Jai
+IsSalesperson,FALSE
+EmailAddress,jais@wideworldimporters.com
+OtherLanguages,"[""Finnish"",""Dutch""]"
+,
+EmployeeID,20
+Name,Jack Potter
+PreferredName,Jack
+IsSalesperson,TRUE
+EmailAddress,jackp@wideworldimporters.com
+OtherLanguages,"[""Arabic""]"
+,
+EmployeeID,4
+Name,Isabella Rupp
+PreferredName,Isabella
+IsSalesperson,FALSE
+EmailAddress,isabellar@wideworldimporters.com
+OtherLanguages,"[""Turkish"",""Slovenian""]"
+,
+EmployeeID,5
+Name,Eva Muirden
+PreferredName,Eva
+IsSalesperson,FALSE
+EmailAddress,evam@wideworldimporters.com
+OtherLanguages,"[""Lithuanian""]"
+,
+EmployeeID,6
+Name,Sophia Hinton
+PreferredName,Sophia
+IsSalesperson,TRUE
+EmailAddress,sophiah@wideworldimporters.com
+OtherLanguages,"[""Swedish""]"
+,
+EmployeeID,7
+Name,Amy Trefl
+PreferredName,Amy
+IsSalesperson,TRUE
+EmailAddress,amyt@wideworldimporters.com
+OtherLanguages,"[""Slovak"",""Spanish"",""Polish""]"
+,
+EmployeeID,8
+Name,Anthony Grosse
+PreferredName,Anthony
+IsSalesperson,TRUE
+EmailAddress,anthonyg@wideworldimporters.com
+OtherLanguages,"[""Croatian"",""Dutch"",""Bokmål""]"
+,
+EmployeeID,9
+Name,Alica Fatnowna
+PreferredName,Alica
+IsSalesperson,FALSE
+EmailAddress,alicaf@wideworldimporters.com
+OtherLanguages,[]

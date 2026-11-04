@@ -1,0 +1,90 @@
+# ==========================================
+# Power BI, Office & Development .gitignore
+# ==========================================
+
+# Microsoft Office Temporary Lock Files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+~$*.docx
+~$*.pptx
+~$*.csv
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary & Cache Files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Python Caches (if running helper scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# User Scratch Scripts & Archives
+scratch/
+_archives/
+
+# ============================================================
+# Large Binary Files (>= 1 MB) - Excluded from GitHub
+# These files are too large for Git LFS free tier (1 GB limit).
+# They remain on your local disk and are referenced in
+# each episode's README.md for download.
+# ============================================================
+
+# Ep03 - Large Excel datasets
+02-Data-Acquisition/Ep03-Get-Data-From-Excel/1. Sales Dastabase.xlsx
+02-Data-Acquisition/Ep03-Get-Data-From-Excel/2. Sales Dastabase.xlsx
+02-Data-Acquisition/Ep03-Get-Data-From-Excel/Excel Data.pbix
+
+# Ep06 - Large PDF
+02-Data-Acquisition/Ep06-Get-Data-From-PDF/1. Sales Database.pdf
+
+# Ep23 - Large PBIX
+03-Advanced-Data-Extraction/Ep23-Get-Data-From-JSON/JSON.pbix
+
+# Ep30-31 - Large Parameter/Template files
+04-Governance-and-Automation/Ep30-31-Parameters-and-Templates/Change DataSource/EssamElsayad Full.xlsx
+04-Governance-and-Automation/Ep30-31-Parameters-and-Templates/Change DataSource/EssamElsayad Sample.xlsx
+04-Governance-and-Automation/Ep30-31-Parameters-and-Templates/Change DataSource/change data source.pbix
+04-Governance-and-Automation/Ep30-31-Parameters-and-Templates/Essam Elsayad 13May26.xlsx
+
+# Ep32-33 - Large Data Types files (134 MB pbix + 23 MB xlsx)
+05-Data-Transformation/Ep32-33-Different-Data-Types/Essam Elsayad.pbix
+05-Data-Transformation/Ep32-33-Different-Data-Types/Essam Elsayad.xlsx
+05-Data-Transformation/Ep32-33-Different-Data-Types/WideWorldImporters_2021-23.xlsx
+
+# Ep34 - Largest file: 257 MB pbix
+05-Data-Transformation/Ep34-Local-Interpretation/Local Interpretation Essam Elsdayad.pbix
+05-Data-Transformation/Ep34-Local-Interpretation/WideWorldImporters_2021-23.xlsx
+
+# Ep35 - Large Custom Columns pbix
+05-Data-Transformation/Ep35-Custom-Columns/Custom CL.pbix
+
+# Ep43-44 - Large Append files
+05-Data-Transformation/Ep43-44-Append-Queries/Append Eps44.xlsx
+05-Data-Transformation/Ep43-44-Append-Queries/append.pbix
+
+# Ep55 - Large Sales Database
+06-Case-Studies/Ep55-Full-Project-Multiple-Sources/Sales Database.xlsx
+
+# Ep56 - Multi-Source files
+06-Case-Studies/Ep56-Multi-Source-Integration-and-Modeling/Multi-Source Data Integration & Modeling (Case Study).pbix
+06-Case-Studies/Ep56-Multi-Source-Integration-and-Modeling/SalesDatabase/FY-2020 Sales Database.xlsx
+06-Case-Studies/Ep56-Multi-Source-Integration-and-Modeling/SalesDatabase/FY-2021 Sales Database.xlsx
+06-Case-Studies/Ep56-Multi-Source-Integration-and-Modeling/SalesDatabase/FY-2022 Sales Database.xlsx
+06-Case-Studies/Ep56-Multi-Source-Integration-and-Modeling/SalesDatabase/FY-2023 Sales Database.xlsx
+
+# Ep69-70 - Large M Language PDF
+07-Power-Query-Engine-and-M-Language/Ep69-70-M-Language-Fundamentals/M Language Theory.pdf

@@ -1,0 +1,20 @@
+EmployeeID;Name;PreferredName;IsSalesperson;EmailAddress
+10;Stella Rosenhain;Stella;FALSE;stellar@wideworldimporters.com
+11;Ethan Onslow;Ethan;FALSE;ethano@wideworldimporters.com
+12;Henry Forlonge;Henry;FALSE;henryf@wideworldimporters.com
+13;Hudson Hollinworth;Hudson;TRUE;hudsonh@wideworldimporters.com
+14;Lily Code;Lily;TRUE;lilyc@wideworldimporters.com
+15;Taj Shand;Taj;TRUE;tajs@wideworldimporters.com
+16;Archer Lamble;Archer;TRUE;archerl@wideworldimporters.com
+17;Piper Koch;Piper;FALSE;piperk@wideworldimporters.com
+18;Katie Darwin;Katie;FALSE;katied@wideworldimporters.com
+19;Jai Shand;Jai;FALSE;jais@wideworldimporters.com
+2;Kayla Woodcock;Kayla;TRUE;kaylaw@wideworldimporters.com
+20;Jack Potter;Jack;TRUE;jackp@wideworldimporters.com
+3;Hudson Onslow;Hudson;TRUE;hudsono@wideworldimporters.com
+4;Isabella Rupp;Isabella;FALSE;isabellar@wideworldimporters.com
+5;Eva Muirden;Eva;FALSE;evam@wideworldimporters.com
+6;Sophia Hinton;Sophia;TRUE;sophiah@wideworldimporters.com
+7;Amy Trefl;Amy;TRUE;amyt@wideworldimporters.com
+8;Anthony Grosse;Anthony;TRUE;anthonyg@wideworldimporters.com
+9;Alica Fatnowna;Alica;FALSE;alicaf@wideworldimporters.com

@@ -1,0 +1,25 @@
+Customer ID	First Name	Last Name	Customer Gender	Customer Picture	SalesRep Name	Manager Name
+ESAD344	Essam	Elsayad	Male	https://i.postimg.cc/zXx2F0vp/Slide4.png	Abdullateif AlKhateib	Mohamed Allam
+MAED621	Abeer	Mohamed	Female	https://i.postimg.cc/nrB9THvB/Slide21.png	Abdullateif AlKhateib	Mohamed Allam
+HAAN787	Hassan	Abdelrahman	Male	https://i.postimg.cc/htGwkN6H/Slide1.png	Abdullateif AlKhateib	Mohamed Allam
+AHEB824	Abdullah	Alomary	Male	https://i.postimg.cc/kXRRT5XZ/Slide10.png	Abdullateif AlKhateib	Mohamed Allam
+MAAL249	Mahmoud	Kamal	Male	https://i.postimg.cc/tTzNC4VD/Slide7.png	Yasmina Fouad	Mohamed Allam
+MADA804	Mahmoud	Hamouda	Male	https://i.postimg.cc/V65k57JT/Slide14.png	Yasmina Fouad	Mohamed Allam
+ZOED694	Zoza	Mohamed	Female	https://i.postimg.cc/50ZFwHFf/Slide20.png	Yasmina Fouad	Mohamed Allam
+AMAH669	Amal	Abdelfatah	Female	https://i.postimg.cc/1XqwT0Zg/Slide17.png	Yasmina Fouad	Mohamed Allam
+BAIM232	Mostafa	Almohammady	Male	https://i.postimg.cc/hGcJ4bbW/Slide11.png	Mohamed Musallam	Mohamed Allam
+AHIB712	Ahmed	Ezzat	Male	https://i.postimg.cc/T1YqyvVx/Slide8.png	Mohamed Musallam	Mohamed Allam
+MAED303	Maram	Mohamed	Female	https://i.postimg.cc/VLtWHwY7/Slide15.png	Mohamed Musallam	Mohamed Allam
+BOAM697	Taleb	Aldris	Male	https://i.postimg.cc/66Lmy9Nk/Slide3.png	Mohamed Musallam	Mohamed Allam
+MOAD809	Mahmoud	Raslan	Male	https://i.postimg.cc/yNcTtP1M/Slide6.png	Alaa Khalifa	Hany Higazi
+AMED646	Amal	Mohamed	Female	https://i.postimg.cc/zXwRgGD1/Slide22.png	Alaa Khalifa	Hany Higazi
+AZAN794	Azza	Abdelrahman	Female	https://i.postimg.cc/9QpTvFsB/Slide18.png	Alaa Khalifa	Hany Higazi
+ZEAD704	Zenab	Elsayad	Female	https://i.postimg.cc/MTjnKW3N/Slide23.png	Alaa Khalifa	Hany Higazi
+MAAL558	Maisoun	Kamal	Female	https://i.postimg.cc/rpwWc2k2/Slide19.png	Ayman Kamal	Hany Higazi
+AHAN853	Mohamed	Salah	Male	https://i.postimg.cc/XYcJPBM2/Slide13.png	Ayman Kamal	Hany Higazi
+HAED842	Hala	Ahmed	Female	https://i.postimg.cc/VNKqbLRN/Slide16.png	Ayman Kamal	Hany Higazi
+BEAN253	Berry	Hassan	Female	https://i.postimg.cc/Rh7qKgBT/Slide24.png	Ayman Kamal	Hany Higazi
+OSWY618	Osama	Elnabawy	Male	https://i.postimg.cc/NfjpFmDX/Slide5.png	Sara Adel	Hany Higazi
+AHMA668	Ahmed	Yousef	Male	https://i.postimg.cc/1tWVjnFx/Slide9.png	Sara Adel	Hany Higazi
+OMDR487	Mostafa	Fawzy	Male	https://i.postimg.cc/6QkmGqqX/Slide2.png	Sara Adel	Hany Higazi
+MORY856	Mahmoud	Khairy	Male	https://i.postimg.cc/RF0NKSDg/Slide12.png	Sara Adel	Hany Higazi

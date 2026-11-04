@@ -1,0 +1,22 @@
+﻿EmployeeID,Name,PreferredName,IsSalesperson,EmailAddress,OtherLanguages 
+10,Stella Rosenhain,Stella,FALSE,stellar@wideworldimporters.com,"""Dutch
+Finnish
+Lithuanian"""
+11,Ethan Onslow,Ethan,FALSE,ethano@wideworldimporters.com,[]
+12,Henry Forlonge,Henry,FALSE,henryf@wideworldimporters.com,"[""Greek"",""Slovak""]"
+13,Hudson Hollinworth,Hudson,TRUE,hudsonh@wideworldimporters.com,"[""Croatian""]"
+14,Lily Code,Lily,TRUE,lilyc@wideworldimporters.com,"[""Finnish"",""Bulgarian""]"
+15,Taj Shand,Taj,TRUE,tajs@wideworldimporters.com,"[""Arabic"",""Greek""]"
+16,Archer Lamble,Archer,TRUE,archerl@wideworldimporters.com,"[""Greek""]"
+17,Piper Koch,Piper,FALSE,piperk@wideworldimporters.com,"[""Romanian"",""Portuguese""]"
+18,Katie Darwin,Katie,FALSE,katied@wideworldimporters.com,"[""Estonian"",""Romanian""]"
+19,Jai Shand,Jai,FALSE,jais@wideworldimporters.com,"[""Finnish"",""Dutch""]"
+2,Kayla Woodcock,Kayla,TRUE,kaylaw@wideworldimporters.com,"[""Polish"",""Chinese"",""Japanese""]"
+20,Jack Potter,Jack,TRUE,jackp@wideworldimporters.com,"[""Arabic""]"
+3,Hudson Onslow,Hudson,TRUE,hudsono@wideworldimporters.com,[]
+4,Isabella Rupp,Isabella,FALSE,isabellar@wideworldimporters.com,"[""Turkish"",""Slovenian""]"
+5,Eva Muirden,Eva,FALSE,evam@wideworldimporters.com,"[""Lithuanian""]"
+6,Sophia Hinton,Sophia,TRUE,sophiah@wideworldimporters.com,"[""Swedish""]"
+7,Amy Trefl,Amy,TRUE,amyt@wideworldimporters.com,"[""Slovak"",""Spanish"",""Polish""]"
+8,Anthony Grosse,Anthony,TRUE,anthonyg@wideworldimporters.com,"[""Croatian"",""Dutch"",""Bokmål""]"
+9,Alica Fatnowna,Alica,FALSE,alicaf@wideworldimporters.com,[]
