@@ -1,4 +1,4 @@
-# Episode 12: Get Data From Database (SQL | Oracle | SAP) | Ep. 12 | Microsoft Power BI Data Analysis Diploma
+# Episode 12: Get Data From Database (SQL / Oracle / SAP)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 12** | Get Data From Database (SQL | Oracle | SAP) | Ep. 12 | Microsoft Power BI Data Analysis Diploma | `46m 21s` | [Watch on YouTube](https://www.youtube.com/watch?v=VQsinzZ4ERY) | [Download Sample Data](https://drive.google.com/file/d/1AOYbAyLbbsSYuvJe3uCpiPCiU4fATSRS/view?usp=sharing) |
+| **Ep. 12** | Get Data From Database (SQL / Oracle / SAP) | `46m 21s` | [Watch on YouTube](https://www.youtube.com/watch?v=VQsinzZ4ERY) | [Download Sample Data](https://drive.google.com/file/d/1AOYbAyLbbsSYuvJe3uCpiPCiU4fATSRS/view?usp=sharing) |
 
 ---
 

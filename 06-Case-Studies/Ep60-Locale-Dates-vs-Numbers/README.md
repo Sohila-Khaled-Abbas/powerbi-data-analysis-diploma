@@ -1,4 +1,4 @@
-# Episode 60: Locale (Dates vs. Numbers) | Case Study | Ep. 60 | Microsoft Power BI Data Analysis Diploma
+# Episode 60: Locale (Dates vs. Numbers)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 60** | Locale (Dates vs. Numbers) | Case Study | Ep. 60 | Microsoft Power BI Data Analysis Diploma | `12m 31s` | [Watch on YouTube](https://www.youtube.com/watch?v=NwneSCZVndk) | [Download Sample Data](https://drive.google.com/file/d/188cd3l6tXUVKO9Ese2Zs2Av3G_uYhSzq/view?usp=sharing) |
+| **Ep. 60** | Locale (Dates vs. Numbers) | `12m 31s` | [Watch on YouTube](https://www.youtube.com/watch?v=NwneSCZVndk) | [Download Sample Data](https://drive.google.com/file/d/188cd3l6tXUVKO9Ese2Zs2Av3G_uYhSzq/view?usp=sharing) |
 
 ---
 

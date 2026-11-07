@@ -1,4 +1,4 @@
-# Episodes 28 - 29: Data Source Connections (Import, Direct & Live) | Ep. 28 | Microsoft Power BI Data Analysis Diploma
+# Episodes 28 - 29: Data Source Connections (Import, Direct & Live)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,8 +10,8 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 28** | Data Source Connections (Import, Direct & Live) | Ep. 28 | Microsoft Power BI Data Analysis Diploma | `21m 30s` | [Watch on YouTube](https://www.youtube.com/watch?v=bVJ7fH16a3M) | Included in repo / Follow lecture |
-| **Ep. 29** | Dual Mode Connection | Ep. 29 | Microsoft Power BI Data Analysis Diploma | `12m 41s` | [Watch on YouTube](https://www.youtube.com/watch?v=Ygw7a4RRQ-I) | Included in repo / Follow lecture |
+| **Ep. 28** | Data Source Connections (Import, Direct & Live) | `21m 30s` | [Watch on YouTube](https://www.youtube.com/watch?v=bVJ7fH16a3M) | Included in repo / Follow lecture |
+| **Ep. 29** | Dual Mode Connection | `12m 41s` | [Watch on YouTube](https://www.youtube.com/watch?v=Ygw7a4RRQ-I) | Included in repo / Follow lecture |
 
 ---
 

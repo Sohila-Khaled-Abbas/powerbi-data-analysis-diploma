@@ -1,4 +1,4 @@
-# Episodes 43 - 44: Append (Theory) | Ep. 43 | Microsoft Power BI Data Analysis Diploma
+# Episodes 43 - 44: Append (Theory)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,8 +10,8 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 43** | Append (Theory) | Ep. 43 | Microsoft Power BI Data Analysis Diploma | `10m 26s` | [Watch on YouTube](https://www.youtube.com/watch?v=TGqI6xxEO28) | Included in repo / Follow lecture |
-| **Ep. 44** | Append | Ep. 44 | Microsoft Power BI Data Analysis Diploma | `27m 45s` | [Watch on YouTube](https://www.youtube.com/watch?v=kqTcg-j5bk4) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1_hWdLDXrnIIEjyUfiFntNA9LQhuJPZyi/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
+| **Ep. 43** | Append (Theory) | `10m 26s` | [Watch on YouTube](https://www.youtube.com/watch?v=TGqI6xxEO28) | Included in repo / Follow lecture |
+| **Ep. 44** | Append | `27m 45s` | [Watch on YouTube](https://www.youtube.com/watch?v=kqTcg-j5bk4) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1_hWdLDXrnIIEjyUfiFntNA9LQhuJPZyi/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
 
 ---
 

@@ -1,4 +1,4 @@
-# Episode 67: Safe vs. Breaking Changes | Ep. 67 | Microsoft Power BI Data Analysis Diploma
+# Episode 67: Safe vs. Breaking Changes
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 67** | Safe vs. Breaking Changes | Ep. 67 | Microsoft Power BI Data Analysis Diploma | `25m 21s` | [Watch on YouTube](https://www.youtube.com/watch?v=g4b3S3rLQr8) | [Download Sample Data](https://drive.google.com/drive/folders/1IQYx_NGw08X73OkgYzFmhK5EsP5ONvKr) |
+| **Ep. 67** | Safe vs. Breaking Changes | `25m 21s` | [Watch on YouTube](https://www.youtube.com/watch?v=g4b3S3rLQr8) | [Download Sample Data](https://drive.google.com/drive/folders/1IQYx_NGw08X73OkgYzFmhK5EsP5ONvKr) |
 
 ---
 

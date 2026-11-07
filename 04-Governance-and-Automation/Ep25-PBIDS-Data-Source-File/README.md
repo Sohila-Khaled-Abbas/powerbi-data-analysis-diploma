@@ -1,4 +1,4 @@
-# Episode 25: PBIDS (Power BI Data Source File) | Ep. 25 | Microsoft Power BI Data Analysis Diploma
+# Episode 25: PBIDS (Power BI Data Source File)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 25** | PBIDS (Power BI Data Source File) | Ep. 25 | Microsoft Power BI Data Analysis Diploma | `21m 2s` | [Watch on YouTube](https://www.youtube.com/watch?v=QG_omh_AMu8) | [Download Sample Data](https://drive.google.com/drive/folders/1MHSgZ5UkhB1iov0vcunu_lCxgdJFg1fV?usp=sharing) |
+| **Ep. 25** | PBIDS (Power BI Data Source File) | `21m 2s` | [Watch on YouTube](https://www.youtube.com/watch?v=QG_omh_AMu8) | [Download Sample Data](https://drive.google.com/drive/folders/1MHSgZ5UkhB1iov0vcunu_lCxgdJFg1fV?usp=sharing) |
 
 ---
 

@@ -1,4 +1,4 @@
-# Episode 20: Get Data From LinkedIn | Ep. 20 | Microsoft Power BI Data Analysis Diploma
+# Episode 20: Get Data From LinkedIn
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 20** | Get Data From LinkedIn | Ep. 20 | Microsoft Power BI Data Analysis Diploma | `17m 20s` | [Watch on YouTube](https://www.youtube.com/watch?v=7VdsxREKcwo) | Included in repo / Follow lecture |
+| **Ep. 20** | Get Data From LinkedIn | `17m 20s` | [Watch on YouTube](https://www.youtube.com/watch?v=7VdsxREKcwo) | Included in repo / Follow lecture |
 
 ---
 

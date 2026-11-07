@@ -1,4 +1,4 @@
-# Episode 58: Hardcode vs Logic | Case Study | Ep. 58 | Microsoft Power BI Data Analysis Diploma
+# Episode 58: Hardcode vs Logic
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 58** | Hardcode vs Logic | Case Study | Ep. 58 | Microsoft Power BI Data Analysis Diploma | `16m 57s` | [Watch on YouTube](https://www.youtube.com/watch?v=xus1508g4Pw) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1R3wJ3G4olGDGQI1k3vsrZN6xa0iTsmDq/edit?gid=39706116#gid=39706116) |
+| **Ep. 58** | Hardcode vs Logic | `16m 57s` | [Watch on YouTube](https://www.youtube.com/watch?v=xus1508g4Pw) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1R3wJ3G4olGDGQI1k3vsrZN6xa0iTsmDq/edit?gid=39706116#gid=39706116) |
 
 ---
 

@@ -1,4 +1,4 @@
-# Episode 54: Complex Header Structure | Case Study | Ep. 54 | Microsoft Power BI Data Analysis Diploma
+# Episode 54: Complex Header Structure
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 54** | Complex Header Structure | Case Study | Ep. 54 | Microsoft Power BI Data Analysis Diploma | `18m 47s` | [Watch on YouTube](https://www.youtube.com/watch?v=Xb9kqBNln7A) | [Download Sample Data](https://docs.google.com/spreadsheets/d/17ta44Ce2F_jyEYoZlT1kOqm2fuG0ERee/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
+| **Ep. 54** | Complex Header Structure | `18m 47s` | [Watch on YouTube](https://www.youtube.com/watch?v=Xb9kqBNln7A) | [Download Sample Data](https://docs.google.com/spreadsheets/d/17ta44Ce2F_jyEYoZlT1kOqm2fuG0ERee/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
 
 ---
 

@@ -1,4 +1,4 @@
-# Episode 61: Vertical Headers Structure | Case Study | Ep. 61 | Microsoft Power BI Data Analysis Diploma
+# Episode 61: Vertical Headers Structure
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 61** | Vertical Headers Structure | Case Study | Ep. 61 | Microsoft Power BI Data Analysis Diploma | `20m 37s` | [Watch on YouTube](https://www.youtube.com/watch?v=c5Ja8xUZmEY) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1iIbqiFkiWTfUcoH4nS4URRRLG7vNFNTE/edit?gid=1207873951#gid=1207873951) |
+| **Ep. 61** | Vertical Headers Structure | `20m 37s` | [Watch on YouTube](https://www.youtube.com/watch?v=c5Ja8xUZmEY) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1iIbqiFkiWTfUcoH4nS4URRRLG7vNFNTE/edit?gid=1207873951#gid=1207873951) |
 
 ---
 

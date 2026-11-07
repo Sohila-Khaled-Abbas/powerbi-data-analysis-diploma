@@ -1,4 +1,4 @@
-# Episodes 4 - 5: Get Data From CSV Files | Ep. 4 | Microsoft Power BI Data Analysis Diploma
+# Episodes 4 - 5: Get Data From CSV Files
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,8 +10,8 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 04** | Get Data From CSV Files | Ep. 4 | Microsoft Power BI Data Analysis Diploma | `33m 35s` | [Watch on YouTube](https://www.youtube.com/watch?v=2I00ZCmG204) | [Download Sample Data](https://drive.google.com/drive/folders/1kd63LXUQ8qZ21yU54xNTX1_PwLT_MXAm?usp=sharing) |
-| **Ep. 05** | Fixing CSV Import Issues | Ep. 5 | Microsoft Power BI Data Analysis Diploma | `6m 46s` | [Watch on YouTube](https://www.youtube.com/watch?v=TbyiWFP9IYE) | Included in repo / Follow lecture |
+| **Ep. 04** | Get Data From CSV Files | `33m 35s` | [Watch on YouTube](https://www.youtube.com/watch?v=2I00ZCmG204) | [Download Sample Data](https://drive.google.com/drive/folders/1kd63LXUQ8qZ21yU54xNTX1_PwLT_MXAm?usp=sharing) |
+| **Ep. 05** | Fixing CSV Import Issues | `6m 46s` | [Watch on YouTube](https://www.youtube.com/watch?v=TbyiWFP9IYE) | Included in repo / Follow lecture |
 
 ---
 

@@ -1,4 +1,4 @@
-# Episode 68: Step Error vs. Cell Error | Ep. 68 | Microsoft Power BI Data Analysis Diploma
+# Episode 68: Step Error vs. Cell Error
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 68** | Step Error vs. Cell Error | Ep. 68 | Microsoft Power BI Data Analysis Diploma | `8m 18s` | [Watch on YouTube](https://www.youtube.com/watch?v=NdSx5_WQcz8) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1CcnHY9sxUNkobYEX_GL2RMbIKtKhGqrK/edit?gid=1998078071#gid=1998078071) |
+| **Ep. 68** | Step Error vs. Cell Error | `8m 18s` | [Watch on YouTube](https://www.youtube.com/watch?v=NdSx5_WQcz8) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1CcnHY9sxUNkobYEX_GL2RMbIKtKhGqrK/edit?gid=1998078071#gid=1998078071) |
 
 ---
 

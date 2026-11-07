@@ -1,4 +1,4 @@
-# Episode 74: Frequency vs. Sequence Analysis | Ep. 74 | Microsoft Power BI Data Analysis Diploma
+# Episode 74: Frequency vs. Sequence Analysis
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 74** | Frequency vs. Sequence Analysis | Ep. 74 | Microsoft Power BI Data Analysis Diploma | `15m 23s` | [Watch on YouTube](https://www.youtube.com/watch?v=CfpKqBiO8Kg) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1RG09LGg3W60frQHKlZycLTfGzvJ0kp_c/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
+| **Ep. 74** | Frequency vs. Sequence Analysis | `15m 23s` | [Watch on YouTube](https://www.youtube.com/watch?v=CfpKqBiO8Kg) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1RG09LGg3W60frQHKlZycLTfGzvJ0kp_c/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
 
 ---
 

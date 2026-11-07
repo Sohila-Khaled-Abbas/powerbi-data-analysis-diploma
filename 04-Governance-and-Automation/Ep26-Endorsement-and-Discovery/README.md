@@ -1,4 +1,4 @@
-# Episode 26: Endorsement & Discovery | Ep. 26 | Microsoft Power BI Data Analysis Diploma
+# Episode 26: Endorsement & Discovery
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 26** | Endorsement & Discovery | Ep. 26 | Microsoft Power BI Data Analysis Diploma | `18m 44s` | [Watch on YouTube](https://www.youtube.com/watch?v=LAEFxT-C0zg) | Included in repo / Follow lecture |
+| **Ep. 26** | Endorsement & Discovery | `18m 44s` | [Watch on YouTube](https://www.youtube.com/watch?v=LAEFxT-C0zg) | Included in repo / Follow lecture |
 
 ---
 

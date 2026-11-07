@@ -1,4 +1,4 @@
-# Episode 37: Columns from Examples | Ep. 37 | Microsoft Power BI Data Analysis Diploma
+# Episode 37: Columns from Examples
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 37** | Columns from Examples | Ep. 37 | Microsoft Power BI Data Analysis Diploma | `16m 1s` | [Watch on YouTube](https://www.youtube.com/watch?v=t6JwFr04Aj4) | Included in repo / Follow lecture |
+| **Ep. 37** | Columns from Examples | `16m 1s` | [Watch on YouTube](https://www.youtube.com/watch?v=t6JwFr04Aj4) | Included in repo / Follow lecture |
 
 ---
 

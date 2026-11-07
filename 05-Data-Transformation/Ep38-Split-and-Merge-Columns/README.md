@@ -1,4 +1,4 @@
-# Episode 38: Split and Merge Columns | Ep. 38 | Microsoft Power BI Data Analysis Diploma
+# Episode 38: Split and Merge Columns
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 38** | Split and Merge Columns | Ep. 38 | Microsoft Power BI Data Analysis Diploma | `33m 42s` | [Watch on YouTube](https://www.youtube.com/watch?v=2OR9JHAcxEM) | Included in repo / Follow lecture |
+| **Ep. 38** | Split and Merge Columns | `33m 42s` | [Watch on YouTube](https://www.youtube.com/watch?v=2OR9JHAcxEM) | Included in repo / Follow lecture |
 
 ---
 

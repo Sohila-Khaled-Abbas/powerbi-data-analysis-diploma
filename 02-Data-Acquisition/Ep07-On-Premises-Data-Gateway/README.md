@@ -1,4 +1,4 @@
-# Episode 7: On-Premises Data Gateway | Ep. 7 | Microsoft Power BI Data Analysis Diploma
+# Episode 7: On-Premises Data Gateway
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 07** | On-Premises Data Gateway | Ep. 7 | Microsoft Power BI Data Analysis Diploma | `28m 14s` | [Watch on YouTube](https://www.youtube.com/watch?v=LJRxoAyxZG8) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1lQh89lXIJ5OF3j44NyMkdw-vfJEGti3B/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **Ep. 07** | On-Premises Data Gateway | `28m 14s` | [Watch on YouTube](https://www.youtube.com/watch?v=LJRxoAyxZG8) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1lQh89lXIJ5OF3j44NyMkdw-vfJEGti3B/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

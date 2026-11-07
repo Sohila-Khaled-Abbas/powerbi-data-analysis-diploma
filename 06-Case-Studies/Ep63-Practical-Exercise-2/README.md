@@ -1,4 +1,4 @@
-# Episode 63: Practical Exercise - 2 | Case Study | Ep. 63 | Microsoft Power BI Data Analysis Diploma
+# Episode 63: Practical Exercise - 2
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 63** | Practical Exercise - 2 | Case Study | Ep. 63 | Microsoft Power BI Data Analysis Diploma | `16m 26s` | [Watch on YouTube](https://www.youtube.com/watch?v=R-HRg0YXA9E) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1BmF6MB3OadOkefrtfxIPyWYBZKDdDV0a/edit?gid=1221288310#gid=1221288310) |
+| **Ep. 63** | Practical Exercise - 2 | `16m 26s` | [Watch on YouTube](https://www.youtube.com/watch?v=R-HRg0YXA9E) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1BmF6MB3OadOkefrtfxIPyWYBZKDdDV0a/edit?gid=1221288310#gid=1221288310) |
 
 ---
 

@@ -1,4 +1,4 @@
-# Episode 71: Practical Exercise - 3 | Case Study | Ep. 71 | Microsoft Power BI Data Analysis Diploma
+# Episode 71: Practical Exercise - 3
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 71** | Practical Exercise - 3 | Case Study | Ep. 71 | Microsoft Power BI Data Analysis Diploma | `46m 57s` | [Watch on YouTube](https://www.youtube.com/watch?v=c9XF4QnYAY4) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1BGjNardWbcEpFkZerwt_hH6K9RW4m1TM/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
+| **Ep. 71** | Practical Exercise - 3 | `46m 57s` | [Watch on YouTube](https://www.youtube.com/watch?v=c9XF4QnYAY4) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1BGjNardWbcEpFkZerwt_hH6K9RW4m1TM/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
 
 ---
 

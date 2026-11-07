@@ -1,4 +1,4 @@
-# Episode 57: Inconsistent Data Sources | Case Study | Ep. 57 | Microsoft Power BI Data Analysis Diploma
+# Episode 57: Inconsistent Data Sources
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 57** | Inconsistent Data Sources | Case Study | Ep. 57 | Microsoft Power BI Data Analysis Diploma | `37m 56s` | [Watch on YouTube](https://www.youtube.com/watch?v=j_PFG3lIaaM) | [Download Sample Data](https://drive.google.com/drive/folders/1fLH6GoSZyYeUnM7IBxTc2IG-8afFezJY) |
+| **Ep. 57** | Inconsistent Data Sources | `37m 56s` | [Watch on YouTube](https://www.youtube.com/watch?v=j_PFG3lIaaM) | [Download Sample Data](https://drive.google.com/drive/folders/1fLH6GoSZyYeUnM7IBxTc2IG-8afFezJY) |
 
 ---
 

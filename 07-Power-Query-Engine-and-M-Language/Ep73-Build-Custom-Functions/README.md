@@ -1,4 +1,4 @@
-# Episode 73: Build Custom Functions | Ep. 73 | Microsoft Power BI Data Analysis Diploma
+# Episode 73: Build Custom Functions
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 73** | Build Custom Functions | Ep. 73 | Microsoft Power BI Data Analysis Diploma | `19m 1s` | [Watch on YouTube](https://www.youtube.com/watch?v=IpBJqY3zctE) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1iEJblGG-g1TSAq6L9AmCoqYe1i49JTJo/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
+| **Ep. 73** | Build Custom Functions | `19m 1s` | [Watch on YouTube](https://www.youtube.com/watch?v=IpBJqY3zctE) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1iEJblGG-g1TSAq6L9AmCoqYe1i49JTJo/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
 
 ---
 

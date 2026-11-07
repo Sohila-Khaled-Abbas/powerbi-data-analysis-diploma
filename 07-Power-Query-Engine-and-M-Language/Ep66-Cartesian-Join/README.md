@@ -1,4 +1,4 @@
-# Episode 66: Cartesian Join | Ep. 66 | Microsoft Power BI Data Analysis Diploma
+# Episode 66: Cartesian Join
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 66** | Cartesian Join | Ep. 66 | Microsoft Power BI Data Analysis Diploma | `12m 1s` | [Watch on YouTube](https://www.youtube.com/watch?v=RFDEx47xQa0) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1sB34uqMVhycmQ1xb7NlFuTUajHVR0Zje/edit?gid=1957227644#gid=1957227644) |
+| **Ep. 66** | Cartesian Join | `12m 1s` | [Watch on YouTube](https://www.youtube.com/watch?v=RFDEx47xQa0) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1sB34uqMVhycmQ1xb7NlFuTUajHVR0Zje/edit?gid=1957227644#gid=1957227644) |
 
 ---
 

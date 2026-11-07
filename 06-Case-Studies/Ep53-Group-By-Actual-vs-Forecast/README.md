@@ -1,4 +1,4 @@
-# Episode 53: Group By (Actual vs Forecast) | Case Study | Ep. 53 | Microsoft Power BI Data Analysis Diploma
+# Episode 53: Group By (Actual vs Forecast)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 53** | Group By (Actual vs Forecast) | Case Study | Ep. 53 | Microsoft Power BI Data Analysis Diploma | `22m 30s` | [Watch on YouTube](https://www.youtube.com/watch?v=dUu93A6t5gM) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1MuJ9EZnB-zKUMS8No5qQ_oJzcSFFg-tK/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
+| **Ep. 53** | Group By (Actual vs Forecast) | `22m 30s` | [Watch on YouTube](https://www.youtube.com/watch?v=dUu93A6t5gM) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1MuJ9EZnB-zKUMS8No5qQ_oJzcSFFg-tK/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
 
 ---
 

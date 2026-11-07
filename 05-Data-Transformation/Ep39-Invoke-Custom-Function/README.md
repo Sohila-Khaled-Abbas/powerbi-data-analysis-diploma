@@ -1,4 +1,4 @@
-# Episode 39: Invoke Custom Function | Ep. 39 | Microsoft Power BI Data Analysis Diploma
+# Episode 39: Invoke Custom Function
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 39** | Invoke Custom Function | Ep. 39 | Microsoft Power BI Data Analysis Diploma | `26m 54s` | [Watch on YouTube](https://www.youtube.com/watch?v=8uAhgo19hxQ) | Included in repo / Follow lecture |
+| **Ep. 39** | Invoke Custom Function | `26m 54s` | [Watch on YouTube](https://www.youtube.com/watch?v=8uAhgo19hxQ) | Included in repo / Follow lecture |
 
 ---
 

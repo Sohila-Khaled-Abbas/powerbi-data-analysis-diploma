@@ -1,4 +1,4 @@
-# Episode 23: Get Data From JSON - Facebook - Instagram | Ep. 23 | Microsoft Power BI Data Analysis Diploma
+# Episode 23: Get Data From JSON - Facebook - Instagram
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 23** | Get Data From JSON - Facebook - Instagram | Ep. 23 | Microsoft Power BI Data Analysis Diploma | `25m 20s` | [Watch on YouTube](https://www.youtube.com/watch?v=pQ-ZAmkhXzM) | [Download Sample Data](https://drive.google.com/file/d/178IbhuDlsTxMJr9VPaYBlQM2VROSlGuw/view?usp=sharing) |
+| **Ep. 23** | Get Data From JSON - Facebook - Instagram | `25m 20s` | [Watch on YouTube](https://www.youtube.com/watch?v=pQ-ZAmkhXzM) | [Download Sample Data](https://drive.google.com/file/d/178IbhuDlsTxMJr9VPaYBlQM2VROSlGuw/view?usp=sharing) |
 
 ---
 

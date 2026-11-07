@@ -1,4 +1,4 @@
-# Episode 65: Null vs. Blank – Full Explanation | Ep. 65 | Microsoft Power BI Data Analysis Diploma
+# Episode 65: Null vs. Blank – Full Explanation
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 65** | Null vs. Blank – Full Explanation | Ep. 65 | Microsoft Power BI Data Analysis Diploma | `16m 58s` | [Watch on YouTube](https://www.youtube.com/watch?v=wlSBLPL50rM) | Included in repo / Follow lecture |
+| **Ep. 65** | Null vs. Blank – Full Explanation | `16m 58s` | [Watch on YouTube](https://www.youtube.com/watch?v=wlSBLPL50rM) | Included in repo / Follow lecture |
 
 ---
 

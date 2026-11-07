@@ -1,4 +1,4 @@
-# Episode 51: Fragmented, Duplicate & Merge | Case Study | Ep. 51 | Microsoft Power BI Data Analysis Diploma
+# Episode 51: Fragmented, Duplicate & Merge
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 51** | Fragmented, Duplicate & Merge | Case Study | Ep. 51 | Microsoft Power BI Data Analysis Diploma | `9m 54s` | [Watch on YouTube](https://www.youtube.com/watch?v=FecDKZfggWg) | [Download Sample Data](https://docs.google.com/spreadsheets/d/15QhhgIBUsmb-57FZKiKgxDZgUk-hfim9/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
+| **Ep. 51** | Fragmented, Duplicate & Merge | `9m 54s` | [Watch on YouTube](https://www.youtube.com/watch?v=FecDKZfggWg) | [Download Sample Data](https://docs.google.com/spreadsheets/d/15QhhgIBUsmb-57FZKiKgxDZgUk-hfim9/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
 
 ---
 

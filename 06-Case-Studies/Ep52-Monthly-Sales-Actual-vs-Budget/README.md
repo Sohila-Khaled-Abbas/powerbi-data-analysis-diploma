@@ -1,4 +1,4 @@
-# Episode 52: Monthly Sales (Actual vs Budget) | Case Study | Ep. 52 | Microsoft Power BI Data Analysis Diploma
+# Episode 52: Monthly Sales (Actual vs Budget)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 52** | Monthly Sales (Actual vs Budget) | Case Study | Ep. 52 | Microsoft Power BI Data Analysis Diploma | `18m 55s` | [Watch on YouTube](https://www.youtube.com/watch?v=OEgMul_XKYE) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1J-teTbS6_LaW1sSmQp16R_eqr7kzJ4Vy/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
+| **Ep. 52** | Monthly Sales (Actual vs Budget) | `18m 55s` | [Watch on YouTube](https://www.youtube.com/watch?v=OEgMul_XKYE) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1J-teTbS6_LaW1sSmQp16R_eqr7kzJ4Vy/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
 
 ---
 

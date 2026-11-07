@@ -1,4 +1,4 @@
-# Episode 24: Permissions (Credential - Encryption - Privacy) | Ep. 24 | Microsoft Power BI Data Analysis Diploma
+# Episode 24: Permissions (Credential - Encryption - Privacy)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 24** | Permissions (Credential - Encryption - Privacy) | Ep. 24 | Microsoft Power BI Data Analysis Diploma | `34m 36s` | [Watch on YouTube](https://www.youtube.com/watch?v=AsRyyXMOohg) | [Download Sample Data](https://drive.google.com/drive/folders/1ZotequXkTfprPqUoU3U_qPwb-d2jixsa?usp=sharing) |
+| **Ep. 24** | Permissions (Credential - Encryption - Privacy) | `34m 36s` | [Watch on YouTube](https://www.youtube.com/watch?v=AsRyyXMOohg) | [Download Sample Data](https://drive.google.com/drive/folders/1ZotequXkTfprPqUoU3U_qPwb-d2jixsa?usp=sharing) |
 
 ---
 

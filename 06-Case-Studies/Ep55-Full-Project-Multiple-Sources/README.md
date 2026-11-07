@@ -1,4 +1,4 @@
-# Episode 55: Full Project from Multiple Data Sources | Case Study | Ep. 55 | Power BI Data Analysis Diploma
+# Episode 55: Full Project from Multiple Data Sources
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 55** | Full Project from Multiple Data Sources | Case Study | Ep. 55 | Power BI Data Analysis Diploma | `54m 33s` | [Watch on YouTube](https://www.youtube.com/watch?v=AcT5yK_oLMc) | [Download Sample Data](https://drive.google.com/drive/folders/1EO16UVQNId0DdowPc_8HTCl7FvEvae49?usp=sharing) |
+| **Ep. 55** | Full Project from Multiple Data Sources | `54m 33s` | [Watch on YouTube](https://www.youtube.com/watch?v=AcT5yK_oLMc) | [Download Sample Data](https://drive.google.com/drive/folders/1EO16UVQNId0DdowPc_8HTCl7FvEvae49?usp=sharing) |
 
 ---
 

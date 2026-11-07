@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 09** | Get Data From SharePoint |Ep. 9 | Microsoft Power BI Data Analysis Diploma | `49m 31s` | [Watch on YouTube](https://www.youtube.com/watch?v=JAe7n3Fo1uU) | [Download Sample Data](https://drive.google.com/drive/folders/1HHCYLuq97qB9OQ5FIN0hAPf_HaAfUX6l?usp=sharing) |
+| **Ep. 09** | Get Data From SharePoint | `49m 31s` | [Watch on YouTube](https://www.youtube.com/watch?v=JAe7n3Fo1uU) | [Download Sample Data](https://drive.google.com/drive/folders/1HHCYLuq97qB9OQ5FIN0hAPf_HaAfUX6l?usp=sharing) |
 
 ---
 

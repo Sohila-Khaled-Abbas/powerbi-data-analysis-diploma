@@ -1,4 +1,4 @@
-# Episodes 40 - 41: UnPivot Columns | Ep. 40 | Microsoft Power BI Data Analysis Diploma
+# Episodes 40 - 41: UnPivot Columns
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,8 +10,8 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 40** | UnPivot Columns | Ep. 40 | Microsoft Power BI Data Analysis Diploma | `21m 54s` | [Watch on YouTube](https://www.youtube.com/watch?v=Y2FpX7VS73g) | [Download Sample Data](https://docs.google.com/spreadsheets/d/19dxijDLYslNs31k91lsvSEsJW4CB6tB4/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
-| **Ep. 41** | Pivot Columns | Ep. 41 | Microsoft Power BI Data Analysis Diploma | `10m 53s` | [Watch on YouTube](https://www.youtube.com/watch?v=SsMiqmbTLFM) | Included in repo / Follow lecture |
+| **Ep. 40** | UnPivot Columns | `21m 54s` | [Watch on YouTube](https://www.youtube.com/watch?v=Y2FpX7VS73g) | [Download Sample Data](https://docs.google.com/spreadsheets/d/19dxijDLYslNs31k91lsvSEsJW4CB6tB4/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
+| **Ep. 41** | Pivot Columns | `10m 53s` | [Watch on YouTube](https://www.youtube.com/watch?v=SsMiqmbTLFM) | Included in repo / Follow lecture |
 
 ---
 

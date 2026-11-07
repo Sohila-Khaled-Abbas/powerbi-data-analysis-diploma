@@ -1,4 +1,4 @@
-# Episodes 15 - 17: Get Data From Web | Ep. 15 | Microsoft Power BI Data Analysis Diploma
+# Episodes 15 - 17: Get Data From Web
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,9 +10,9 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 15** | Get Data From Web | Ep. 15 | Microsoft Power BI Data Analysis Diploma | `34m 43s` | [Watch on YouTube](https://www.youtube.com/watch?v=97jpUL-FJIY) | Included in repo / Follow lecture |
-| **Ep. 16** | Get Data From Web (Invoke) | Ep. 16 | Microsoft Power BI Data Analysis Diploma | `22m 13s` | [Watch on YouTube](https://www.youtube.com/watch?v=QrIstR9ZyaA) | Included in repo / Follow lecture |
-| **Ep. 17** | Get Data From Web (List) | Ep. 17 | Microsoft Power BI Data Analysis Diploma | `30m 41s` | [Watch on YouTube](https://www.youtube.com/watch?v=NLzEOoYmh1s) | Included in repo / Follow lecture |
+| **Ep. 15** | Get Data From Web | `34m 43s` | [Watch on YouTube](https://www.youtube.com/watch?v=97jpUL-FJIY) | Included in repo / Follow lecture |
+| **Ep. 16** | Get Data From Web (Invoke) | `22m 13s` | [Watch on YouTube](https://www.youtube.com/watch?v=QrIstR9ZyaA) | Included in repo / Follow lecture |
+| **Ep. 17** | Get Data From Web (List) | `30m 41s` | [Watch on YouTube](https://www.youtube.com/watch?v=NLzEOoYmh1s) | Included in repo / Follow lecture |
 
 ---
 

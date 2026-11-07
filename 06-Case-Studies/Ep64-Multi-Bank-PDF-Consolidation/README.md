@@ -1,4 +1,4 @@
-# Episode 64: Multi-Bank PDF Consolidation | Case Study | Ep. 64 | Microsoft Power BI Data Analysis Diploma
+# Episode 64: Multi-Bank PDF Consolidation
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 64** | Multi-Bank PDF Consolidation | Case Study | Ep. 64 | Microsoft Power BI Data Analysis Diploma | `37m 42s` | [Watch on YouTube](https://www.youtube.com/watch?v=QDId2DLl7EY) | [Download Sample Data](https://drive.google.com/drive/folders/1pd3LJW4AgqME4h5tp1Qzf7WadEmuJWvA) |
+| **Ep. 64** | Multi-Bank PDF Consolidation | `37m 42s` | [Watch on YouTube](https://www.youtube.com/watch?v=QDId2DLl7EY) | [Download Sample Data](https://drive.google.com/drive/folders/1pd3LJW4AgqME4h5tp1Qzf7WadEmuJWvA) |
 
 ---
 

@@ -1,4 +1,4 @@
-# Episode 36: Conditional Columns | Ep. 36 | Microsoft Power BI Data Analysis Diploma
+# Episode 36: Conditional Columns
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 36** | Conditional Columns | Ep. 36 | Microsoft Power BI Data Analysis Diploma | `24m 7s` | [Watch on YouTube](https://www.youtube.com/watch?v=s97vRdiyEdE) | Included in repo / Follow lecture |
+| **Ep. 36** | Conditional Columns | `24m 7s` | [Watch on YouTube](https://www.youtube.com/watch?v=s97vRdiyEdE) | Included in repo / Follow lecture |
 
 ---
 

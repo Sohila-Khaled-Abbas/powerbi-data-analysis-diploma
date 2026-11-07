@@ -1,4 +1,4 @@
-# Episodes 30 - 31: Parameters | Ep. 30 | Microsoft Power BI Data Analysis Diploma
+# Episodes 30 - 31: Parameters
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,8 +10,8 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 30** | Parameters | Ep. 30 | Microsoft Power BI Data Analysis Diploma | `14m 52s` | [Watch on YouTube](https://www.youtube.com/watch?v=OyhTs6jhBcM) | [Download Sample Data](https://drive.google.com/drive/folders/1v0-vZc1s-knXknWIxtitUEUBnNPL2jXO?usp=sharing) |
-| **Ep. 31** | Templates & Parameters | Ep. 31 | Microsoft Power BI Data Analysis Diploma | `21m 18s` | [Watch on YouTube](https://www.youtube.com/watch?v=xmFHUOsRBmI) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1XiQ0E58f1yB_Ib6l8uJrZKp29m5gNRx8/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **Ep. 30** | Parameters | `14m 52s` | [Watch on YouTube](https://www.youtube.com/watch?v=OyhTs6jhBcM) | [Download Sample Data](https://drive.google.com/drive/folders/1v0-vZc1s-knXknWIxtitUEUBnNPL2jXO?usp=sharing) |
+| **Ep. 31** | Templates & Parameters | `21m 18s` | [Watch on YouTube](https://www.youtube.com/watch?v=xmFHUOsRBmI) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1XiQ0E58f1yB_Ib6l8uJrZKp29m5gNRx8/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

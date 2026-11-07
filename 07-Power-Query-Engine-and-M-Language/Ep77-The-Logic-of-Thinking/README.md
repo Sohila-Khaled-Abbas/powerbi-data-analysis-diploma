@@ -1,4 +1,4 @@
-# Episode 77: The Logic of Thinking | Ep. 77 | Microsoft Power BI Data Analysis Diploma
+# Episode 77: The Logic of Thinking
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 77** | The Logic of Thinking | Ep. 77 | Microsoft Power BI Data Analysis Diploma | `9m 33s` | [Watch on YouTube](https://www.youtube.com/watch?v=XJ2KWWGTujA) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1xJ602C-K787QzdsqGdMTMuwQNKTvrJ_o/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
+| **Ep. 77** | The Logic of Thinking | `9m 33s` | [Watch on YouTube](https://www.youtube.com/watch?v=XJ2KWWGTujA) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1xJ602C-K787QzdsqGdMTMuwQNKTvrJ_o/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
 
 ---
 

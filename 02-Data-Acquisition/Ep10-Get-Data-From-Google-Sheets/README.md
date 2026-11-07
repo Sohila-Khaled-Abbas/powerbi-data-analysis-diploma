@@ -1,4 +1,4 @@
-# Episode 10: Get Data From Google Sheets | Ep. 10 | Microsoft Power BI Data Analysis Diploma
+# Episode 10: Get Data From Google Sheets
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 10** | Get Data From Google Sheets | Ep. 10 | Microsoft Power BI Data Analysis Diploma | `32m 6s` | [Watch on YouTube](https://www.youtube.com/watch?v=Jil1SSWVFeU) | [Download Sample Data](https://drive.google.com/drive/folders/1jJ0wn1nepvgLh1Tiq2V59TZbuzthQFGd?usp=sharing) |
+| **Ep. 10** | Get Data From Google Sheets | `32m 6s` | [Watch on YouTube](https://www.youtube.com/watch?v=Jil1SSWVFeU) | [Download Sample Data](https://drive.google.com/drive/folders/1jJ0wn1nepvgLh1Tiq2V59TZbuzthQFGd?usp=sharing) |
 
 ---
 

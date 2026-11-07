@@ -1,4 +1,4 @@
-# Episode 34: Local Interpretation | Ep. 34 | Microsoft Power BI Data Analysis Diploma
+# Episode 34: Local Interpretation
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 34** | Local Interpretation | Ep. 34 | Microsoft Power BI Data Analysis Diploma | `17m 36s` | [Watch on YouTube](https://www.youtube.com/watch?v=NR93ZmJplk0) | [Download Sample Data](https://drive.google.com/drive/folders/1kXySoG8OwEKlbwOU4dIOR0P5Crt2qPTH?usp=sharing) |
+| **Ep. 34** | Local Interpretation | `17m 36s` | [Watch on YouTube](https://www.youtube.com/watch?v=NR93ZmJplk0) | [Download Sample Data](https://drive.google.com/drive/folders/1kXySoG8OwEKlbwOU4dIOR0P5Crt2qPTH?usp=sharing) |
 
 ---
 

@@ -1,4 +1,4 @@
-# Episode 78: Worksheets Name | Ep. 78 | Microsoft Power BI Data Analysis Diploma
+# Episode 78: Worksheets Name
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 78** | Worksheets Name | Ep. 78 | Microsoft Power BI Data Analysis Diploma | `11m 46s` | [Watch on YouTube](https://www.youtube.com/watch?v=uyA9C7m0UYY) | [Download Sample Data](https://drive.google.com/drive/folders/1Z7sVUu5XuWCWP-gEJujWYs8q7GYHd5sa?usp=sharing) |
+| **Ep. 78** | Worksheets Name | `11m 46s` | [Watch on YouTube](https://www.youtube.com/watch?v=uyA9C7m0UYY) | [Download Sample Data](https://drive.google.com/drive/folders/1Z7sVUu5XuWCWP-gEJujWYs8q7GYHd5sa?usp=sharing) |
 
 ---
 

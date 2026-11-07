@@ -1,4 +1,4 @@
-# Episode 76: Away From Zero | Ep. 76 | Microsoft Power BI Data Analysis Diploma
+# Episode 76: Away From Zero
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 76** | Away From Zero | Ep. 76 | Microsoft Power BI Data Analysis Diploma | `10m 4s` | [Watch on YouTube](https://www.youtube.com/watch?v=o2uAwvLCRmY) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1oLnk44t2QSLCh6qFQWdLrK2xlFoLx8YH/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
+| **Ep. 76** | Away From Zero | `10m 4s` | [Watch on YouTube](https://www.youtube.com/watch?v=o2uAwvLCRmY) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1oLnk44t2QSLCh6qFQWdLrK2xlFoLx8YH/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
 
 ---
 

@@ -1,4 +1,4 @@
-# Episode 81: Try & Otherwise | Ep. 81 | Microsoft Power BI Data Analysis Diploma
+# Episode 81: Try & Otherwise
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 81** | Try & Otherwise | Ep. 81 | Microsoft Power BI Data Analysis Diploma | `12m 17s` | [Watch on YouTube](https://www.youtube.com/watch?v=YTZEzXVY8IA) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1MCI_gLq5mbBFYjSXrsDS-Vq0ih8FF8jP/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **Ep. 81** | Try & Otherwise | `12m 17s` | [Watch on YouTube](https://www.youtube.com/watch?v=YTZEzXVY8IA) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1MCI_gLq5mbBFYjSXrsDS-Vq0ih8FF8jP/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

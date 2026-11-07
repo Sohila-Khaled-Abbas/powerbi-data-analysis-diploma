@@ -1,4 +1,4 @@
-# Episode 22: Get Data From Dataverse | Ep. 22 | Microsoft Power BI Data Analysis Diploma
+# Episode 22: Get Data From Dataverse
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 22** | Get Data From Dataverse | Ep. 22 | Microsoft Power BI Data Analysis Diploma | `23m 12s` | [Watch on YouTube](https://www.youtube.com/watch?v=G8JY_KzS6Yk) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1-ZMOR_BBAc2jVTxUy7AynkK8MGVtDC-g/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **Ep. 22** | Get Data From Dataverse | `23m 12s` | [Watch on YouTube](https://www.youtube.com/watch?v=G8JY_KzS6Yk) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1-ZMOR_BBAc2jVTxUy7AynkK8MGVtDC-g/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

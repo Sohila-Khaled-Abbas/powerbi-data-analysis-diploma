@@ -1,4 +1,4 @@
-# Episode 42: Double Headers Issue | Ep. 42 | Microsoft Power BI Data Analysis Diploma
+# Episode 42: Double Headers Issue
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 42** | Double Headers Issue | Ep. 42 | Microsoft Power BI Data Analysis Diploma | `15m 7s` | [Watch on YouTube](https://www.youtube.com/watch?v=218KtXG4GVY) | Included in repo / Follow lecture |
+| **Ep. 42** | Double Headers Issue | `15m 7s` | [Watch on YouTube](https://www.youtube.com/watch?v=218KtXG4GVY) | Included in repo / Follow lecture |
 
 ---
 

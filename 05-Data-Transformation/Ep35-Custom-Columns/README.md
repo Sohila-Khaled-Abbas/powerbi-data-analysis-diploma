@@ -1,4 +1,4 @@
-# Episode 35: Custom Columns | Ep. 35 | Microsoft Power BI Data Analysis Diploma
+# Episode 35: Custom Columns
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 35** | Custom Columns | Ep. 35 | Microsoft Power BI Data Analysis Diploma | `29m 15s` | [Watch on YouTube](https://www.youtube.com/watch?v=wzDHUwIVT_I) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1b7VSsw7VT5YYqML7oA_hgG1IbR1RZT7Z/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **Ep. 35** | Custom Columns | `29m 15s` | [Watch on YouTube](https://www.youtube.com/watch?v=wzDHUwIVT_I) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1b7VSsw7VT5YYqML7oA_hgG1IbR1RZT7Z/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

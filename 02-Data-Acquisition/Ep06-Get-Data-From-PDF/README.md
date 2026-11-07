@@ -1,4 +1,4 @@
-# Episode 6: Get Data From PDFs | Ep. 6 | Microsoft Power BI Data Analysis Diploma
+# Episode 6: Get Data From PDFs
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 06** | Get Data From PDFs | Ep. 6 | Microsoft Power BI Data Analysis Diploma | `26m 50s` | [Watch on YouTube](https://www.youtube.com/watch?v=FoofsFoj6ik) | [Download Sample Data](https://drive.google.com/drive/folders/15XsLUpRll4QUF5hiQv-sI7Z33N43uzgq?usp=sharing) |
+| **Ep. 06** | Get Data From PDFs | `26m 50s` | [Watch on YouTube](https://www.youtube.com/watch?v=FoofsFoj6ik) | [Download Sample Data](https://drive.google.com/drive/folders/15XsLUpRll4QUF5hiQv-sI7Z33N43uzgq?usp=sharing) |
 
 ---
 

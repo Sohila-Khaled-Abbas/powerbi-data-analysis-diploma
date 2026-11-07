@@ -1,4 +1,4 @@
-# Episode 13: Get Data From Semantic Models | Ep. 13 | Microsoft Power BI Data Analysis Diploma
+# Episode 13: Get Data From Semantic Models
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 13** | Get Data From Semantic Models | Ep. 13 | Microsoft Power BI Data Analysis Diploma | `22m 54s` | [Watch on YouTube](https://www.youtube.com/watch?v=YwKp3e43NQk) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1BCYItMvRNeEHZWhjSe1Csx7d1plcyCi1/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **Ep. 13** | Get Data From Semantic Models | `22m 54s` | [Watch on YouTube](https://www.youtube.com/watch?v=YwKp3e43NQk) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1BCYItMvRNeEHZWhjSe1Csx7d1plcyCi1/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

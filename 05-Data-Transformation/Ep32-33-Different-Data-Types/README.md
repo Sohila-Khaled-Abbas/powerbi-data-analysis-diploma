@@ -1,4 +1,4 @@
-# Episodes 32 - 33: Different Data Types (Theory) | Ep. 32 | Microsoft Power BI Data Analysis Diploma
+# Episodes 32 - 33: Different Data Types (Theory)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,8 +10,8 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 32** | Different Data Types (Theory) | Ep. 32 | Microsoft Power BI Data Analysis Diploma | `25m 59s` | [Watch on YouTube](https://www.youtube.com/watch?v=KeuW9GhCIbY) | Included in repo / Follow lecture |
-| **Ep. 33** | Different Data Types | Ep. 33 | Microsoft Power BI Data Analysis Diploma | `45m 18s` | [Watch on YouTube](https://www.youtube.com/watch?v=p8wStMCEIbc) | [Download Sample Data](https://drive.google.com/drive/folders/1mCgtHkBd8rtNE89wM-fRmZpJWZzDtCcD?usp=sharing) |
+| **Ep. 32** | Different Data Types (Theory) | `25m 59s` | [Watch on YouTube](https://www.youtube.com/watch?v=KeuW9GhCIbY) | Included in repo / Follow lecture |
+| **Ep. 33** | Different Data Types | `45m 18s` | [Watch on YouTube](https://www.youtube.com/watch?v=p8wStMCEIbc) | [Download Sample Data](https://drive.google.com/drive/folders/1mCgtHkBd8rtNE89wM-fRmZpJWZzDtCcD?usp=sharing) |
 
 ---
 

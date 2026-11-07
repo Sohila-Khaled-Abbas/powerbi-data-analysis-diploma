@@ -1,4 +1,4 @@
-# Episode 48: Horizontal Date Matrix | Case Study | Ep. 48 | Microsoft Power BI Data Analysis Diploma
+# Episode 48: Horizontal Date Matrix
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 48** | Horizontal Date Matrix | Case Study | Ep. 48 | Microsoft Power BI Data Analysis Diploma | `17m 56s` | [Watch on YouTube](https://www.youtube.com/watch?v=DFCk5VfYmf0) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1pPrz3pW14yRopHyD3YdOvjExma3i2pBD/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
+| **Ep. 48** | Horizontal Date Matrix | `17m 56s` | [Watch on YouTube](https://www.youtube.com/watch?v=DFCk5VfYmf0) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1pPrz3pW14yRopHyD3YdOvjExma3i2pBD/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
 
 ---
 

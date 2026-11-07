@@ -1,4 +1,4 @@
-# Episode 14: Get Data From Microsoft Exchange | Ep. 14 | Microsoft Power BI Data Analysis Diploma
+# Episode 14: Get Data From Microsoft Exchange
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 14** | Get Data From Microsoft Exchange | Ep. 14 | Microsoft Power BI Data Analysis Diploma | `23m 18s` | [Watch on YouTube](https://www.youtube.com/watch?v=U9rl2ygQSRs) | [Download Sample Data](https://drive.google.com/drive/folders/1pVWf-i4SiGqHtpdgYTIuBsFXagPSboxa?usp=sharing) |
+| **Ep. 14** | Get Data From Microsoft Exchange | `23m 18s` | [Watch on YouTube](https://www.youtube.com/watch?v=U9rl2ygQSRs) | [Download Sample Data](https://drive.google.com/drive/folders/1pVWf-i4SiGqHtpdgYTIuBsFXagPSboxa?usp=sharing) |
 
 ---
 

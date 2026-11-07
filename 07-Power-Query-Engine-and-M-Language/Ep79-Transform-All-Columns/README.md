@@ -1,4 +1,4 @@
-# Episode 79: Transform All Columns | Ep. 79 | Microsoft Power BI Data Analysis Diploma
+# Episode 79: Transform All Columns
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 79** | Transform All Columns | Ep. 79 | Microsoft Power BI Data Analysis Diploma | `13m 43s` | [Watch on YouTube](https://www.youtube.com/watch?v=lNIszvvtH20) | [Download Sample Data](https://docs.google.com/spreadsheets/d/17x2adhYI77emsOD1O2lXztQ8JPgoqNL6/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **Ep. 79** | Transform All Columns | `13m 43s` | [Watch on YouTube](https://www.youtube.com/watch?v=lNIszvvtH20) | [Download Sample Data](https://docs.google.com/spreadsheets/d/17x2adhYI77emsOD1O2lXztQ8JPgoqNL6/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

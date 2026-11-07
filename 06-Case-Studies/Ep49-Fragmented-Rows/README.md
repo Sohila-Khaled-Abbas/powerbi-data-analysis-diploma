@@ -1,4 +1,4 @@
-# Episode 49: Fragmented Rows | Case Study | Ep. 49 | Microsoft Power BI Data Analysis Diploma
+# Episode 49: Fragmented Rows
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 49** | Fragmented Rows | Case Study | Ep. 49 | Microsoft Power BI Data Analysis Diploma | `12m 41s` | [Watch on YouTube](https://www.youtube.com/watch?v=j2lfBaQoe-w) | [Download Sample Data](https://docs.google.com/spreadsheets/d/11EH1eoy1tlAoqxJ1JARN40OW9xWtJiwA/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
+| **Ep. 49** | Fragmented Rows | `12m 41s` | [Watch on YouTube](https://www.youtube.com/watch?v=j2lfBaQoe-w) | [Download Sample Data](https://docs.google.com/spreadsheets/d/11EH1eoy1tlAoqxJ1JARN40OW9xWtJiwA/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
 
 ---
 

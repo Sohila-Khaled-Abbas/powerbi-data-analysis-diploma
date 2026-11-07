@@ -1,4 +1,4 @@
-# Episode 8: Get Data From OneDrive | Ep. 8 | Microsoft Power BI Data Analysis Diploma
+# Episode 8: Get Data From OneDrive
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 08** | Get Data From OneDrive | Ep. 8 | Microsoft Power BI Data Analysis Diploma | `14m 56s` | [Watch on YouTube](https://www.youtube.com/watch?v=esTfWYjDWBs) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1lQh89lXIJ5OF3j44NyMkdw-vfJEGti3B/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **Ep. 08** | Get Data From OneDrive | `14m 56s` | [Watch on YouTube](https://www.youtube.com/watch?v=esTfWYjDWBs) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1lQh89lXIJ5OF3j44NyMkdw-vfJEGti3B/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

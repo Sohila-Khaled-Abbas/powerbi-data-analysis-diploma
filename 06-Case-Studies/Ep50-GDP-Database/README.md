@@ -1,4 +1,4 @@
-# Episode 50: GDP Database | Case Study | Ep. 50 | Microsoft Power BI Data Analysis Diploma
+# Episode 50: GDP Database
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 50** | GDP Database | Case Study | Ep. 50 | Microsoft Power BI Data Analysis Diploma | `11m 5s` | [Watch on YouTube](https://www.youtube.com/watch?v=eb4cz-Z6BMA) | [Download Sample Data](https://drive.google.com/file/d/1pSWxQ0x_6w5z_N0iibXn99ND3dfrUXrZ/view?usp=sharing) |
+| **Ep. 50** | GDP Database | `11m 5s` | [Watch on YouTube](https://www.youtube.com/watch?v=eb4cz-Z6BMA) | [Download Sample Data](https://drive.google.com/file/d/1pSWxQ0x_6w5z_N0iibXn99ND3dfrUXrZ/view?usp=sharing) |
 
 ---
 

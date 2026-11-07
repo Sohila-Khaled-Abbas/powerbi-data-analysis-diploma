@@ -1,4 +1,4 @@
-# Episode 1: دبلومة تحليل البيانات | المحاضرة (١) | مقدمة
+# Episode 1: دبلومة تحليل البيانات - المحاضرة (١) - مقدمة
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 01** | دبلومة تحليل البيانات | المحاضرة (١) | مقدمة | `13m 16s` | [Watch on YouTube](https://www.youtube.com/watch?v=Q9kLloQcqTA) | Included in repo / Follow lecture |
+| **Ep. 01** | دبلومة تحليل البيانات - المحاضرة (١) - مقدمة | `13m 16s` | [Watch on YouTube](https://www.youtube.com/watch?v=Q9kLloQcqTA) | Included in repo / Follow lecture |
 
 ---
 

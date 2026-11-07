@@ -1,4 +1,4 @@
-# Episode 72: Helper Queries | Ep. 72 | Microsoft Power BI Data Analysis Diploma
+# Episode 72: Helper Queries
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 72** | Helper Queries | Ep. 72 | Microsoft Power BI Data Analysis Diploma | `16m 32s` | [Watch on YouTube](https://www.youtube.com/watch?v=ESZie6P1VxA) | [Download Sample Data](https://drive.google.com/drive/folders/1OPwJ6BQ2JjcR9KWb5-eqOiLiXLcDBqn1?usp=sharing) |
+| **Ep. 72** | Helper Queries | `16m 32s` | [Watch on YouTube](https://www.youtube.com/watch?v=ESZie6P1VxA) | [Download Sample Data](https://drive.google.com/drive/folders/1OPwJ6BQ2JjcR9KWb5-eqOiLiXLcDBqn1?usp=sharing) |
 
 ---
 

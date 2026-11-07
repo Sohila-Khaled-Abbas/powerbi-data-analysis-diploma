@@ -1,4 +1,4 @@
-# Episodes 69 - 70: M Language (Theory) | Ep. 69 | Microsoft Power BI Data Analysis Diploma
+# Episodes 69 - 70: M Language (Theory)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,8 +10,8 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 69** | M Language (Theory) | Ep. 69 | Microsoft Power BI Data Analysis Diploma | `1h 16m 20s` | [Watch on YouTube](https://www.youtube.com/watch?v=DeJi6omk5Dk) | [Download Sample Data](https://drive.google.com/file/d/15EEPsaZEM5xnlh3uwgLZ7Avb-k5D8keg/view?usp=sharing) |
-| **Ep. 70** | M Language | Ep. 70 | Microsoft Power BI Data Analysis Diploma | `33m 6s` | [Watch on YouTube](https://www.youtube.com/watch?v=KNfHFcJUQOs) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1mGOJ_w5ZzEraxZR_CvoYwuK682ZBqzt_/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
+| **Ep. 69** | M Language (Theory) | `1h 16m 20s` | [Watch on YouTube](https://www.youtube.com/watch?v=DeJi6omk5Dk) | [Download Sample Data](https://drive.google.com/file/d/15EEPsaZEM5xnlh3uwgLZ7Avb-k5D8keg/view?usp=sharing) |
+| **Ep. 70** | M Language | `33m 6s` | [Watch on YouTube](https://www.youtube.com/watch?v=KNfHFcJUQOs) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1mGOJ_w5ZzEraxZR_CvoYwuK682ZBqzt_/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
 
 ---
 

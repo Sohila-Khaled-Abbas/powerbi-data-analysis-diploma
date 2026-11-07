@@ -1,4 +1,4 @@
-# Episodes 45 - 47: Merge & Join Kind (Theory) | Ep. 45 | Microsoft Power BI Data Analysis Diploma
+# Episodes 45 - 47: Merge & Join Kind (Theory)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,9 +10,9 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 45** | Merge & Join Kind (Theory) | Ep. 45 | Microsoft Power BI Data Analysis Diploma | `13m 10s` | [Watch on YouTube](https://www.youtube.com/watch?v=CxBN3M5kSxw) | Included in repo / Follow lecture |
-| **Ep. 46** | Merge & Join Kind | Ep. 46 | Microsoft Power BI Data Analysis Diploma | `16m 13s` | [Watch on YouTube](https://www.youtube.com/watch?v=IAZ-1trfu7c) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1wdzuZge2xv5o-UmSfOzDPpmUGQGV4n1Q/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
-| **Ep. 47** | Fuzzy Match | Ep. 47 | Microsoft Power BI Data Analysis Diploma | `22m 41s` | [Watch on YouTube](https://www.youtube.com/watch?v=G1hiA-uXyDg) | Included in repo / Follow lecture |
+| **Ep. 45** | Merge & Join Kind (Theory) | `13m 10s` | [Watch on YouTube](https://www.youtube.com/watch?v=CxBN3M5kSxw) | Included in repo / Follow lecture |
+| **Ep. 46** | Merge & Join Kind | `16m 13s` | [Watch on YouTube](https://www.youtube.com/watch?v=IAZ-1trfu7c) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1wdzuZge2xv5o-UmSfOzDPpmUGQGV4n1Q/edit?usp=sharing&ouid=107970738919672012073&rtpof=true&sd=true) |
+| **Ep. 47** | Fuzzy Match | `22m 41s` | [Watch on YouTube](https://www.youtube.com/watch?v=G1hiA-uXyDg) | Included in repo / Follow lecture |
 
 ---
 

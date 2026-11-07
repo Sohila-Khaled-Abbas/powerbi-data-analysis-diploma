@@ -1,4 +1,4 @@
-# Episode 80: Null Coalescing Operator | Ep. 80 | Microsoft Power BI Data Analysis Diploma
+# Episode 80: Null Coalescing Operator
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 80** | Null Coalescing Operator | Ep. 80 | Microsoft Power BI Data Analysis Diploma | `9m 17s` | [Watch on YouTube](https://www.youtube.com/watch?v=Tf7yCfw9TeA) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1h9TgU98uAohxtM3oss8usbNg2oL09F7z/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **Ep. 80** | Null Coalescing Operator | `9m 17s` | [Watch on YouTube](https://www.youtube.com/watch?v=Tf7yCfw9TeA) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1h9TgU98uAohxtM3oss8usbNg2oL09F7z/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

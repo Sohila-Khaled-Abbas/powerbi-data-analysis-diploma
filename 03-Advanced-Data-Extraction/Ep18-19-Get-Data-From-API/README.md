@@ -1,4 +1,4 @@
-# Episodes 18 - 19: Get Data From API | Ep. 18 | Microsoft Power BI Data Analysis Diploma
+# Episodes 18 - 19: Get Data From API
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,8 +10,8 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 18** | Get Data From API | Ep. 18 | Microsoft Power BI Data Analysis Diploma | `23m 20s` | [Watch on YouTube](https://www.youtube.com/watch?v=VejauRwSb8A) | Included in repo / Follow lecture |
-| **Ep. 19** | Get Data From API (List. Generate) | Ep. 19 | Microsoft Power BI Data Analysis Diploma | `34m 40s` | [Watch on YouTube](https://www.youtube.com/watch?v=Jrr34uXL7sk) | [Download Sample Data](https://drive.google.com/file/d/1eKPGO9RTRI2_ES3W-SkqLlj_1aGBGD7B/view?usp=sharing) |
+| **Ep. 18** | Get Data From API | `23m 20s` | [Watch on YouTube](https://www.youtube.com/watch?v=VejauRwSb8A) | Included in repo / Follow lecture |
+| **Ep. 19** | Get Data From API (List. Generate) | `34m 40s` | [Watch on YouTube](https://www.youtube.com/watch?v=Jrr34uXL7sk) | [Download Sample Data](https://drive.google.com/file/d/1eKPGO9RTRI2_ES3W-SkqLlj_1aGBGD7B/view?usp=sharing) |
 
 ---
 

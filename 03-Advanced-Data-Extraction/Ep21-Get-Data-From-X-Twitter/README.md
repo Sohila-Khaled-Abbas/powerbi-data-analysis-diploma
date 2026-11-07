@@ -1,4 +1,4 @@
-# Episode 21: Get Data From X (Twitter) | Ep. 21 | Microsoft Power BI Data Analysis Diploma
+# Episode 21: Get Data From X (Twitter)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 21** | Get Data From X (Twitter) | Ep. 21 | Microsoft Power BI Data Analysis Diploma | `9m 32s` | [Watch on YouTube](https://www.youtube.com/watch?v=6vDArBejQe0) | Included in repo / Follow lecture |
+| **Ep. 21** | Get Data From X (Twitter) | `9m 32s` | [Watch on YouTube](https://www.youtube.com/watch?v=6vDArBejQe0) | Included in repo / Follow lecture |
 
 ---
 

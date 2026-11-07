@@ -1,4 +1,4 @@
-# Episode 75: Missing Fields | Ep. 75 | Microsoft Power BI Data Analysis Diploma
+# Episode 75: Missing Fields
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 75** | Missing Fields | Ep. 75 | Microsoft Power BI Data Analysis Diploma | `11m 35s` | [Watch on YouTube](https://www.youtube.com/watch?v=Yc8WkhRb60U) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1Mbg4Q5f3dsaGUzJk_yv-7gWaFcSp469J/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
+| **Ep. 75** | Missing Fields | `11m 35s` | [Watch on YouTube](https://www.youtube.com/watch?v=Yc8WkhRb60U) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1Mbg4Q5f3dsaGUzJk_yv-7gWaFcSp469J/edit?usp=sharing&ouid=114716248435075749833&rtpof=true&sd=true) |
 
 ---
 

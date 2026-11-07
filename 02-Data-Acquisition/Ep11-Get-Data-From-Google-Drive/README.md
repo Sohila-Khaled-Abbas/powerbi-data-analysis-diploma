@@ -1,4 +1,4 @@
-# Episode 11: Get Data From Google Drive | Ep. 11 | Microsoft Power BI Data Analysis Diploma
+# Episode 11: Get Data From Google Drive
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 11** | Get Data From Google Drive | Ep. 11 | Microsoft Power BI Data Analysis Diploma | `17m 6s` | [Watch on YouTube](https://www.youtube.com/watch?v=JYGhyETA9yc) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1hWUanCD3IanMbBAW_mDcXPHKs5UjPrUm/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **Ep. 11** | Get Data From Google Drive | `17m 6s` | [Watch on YouTube](https://www.youtube.com/watch?v=JYGhyETA9yc) | [Download Sample Data](https://docs.google.com/spreadsheets/d/1hWUanCD3IanMbBAW_mDcXPHKs5UjPrUm/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

@@ -1,4 +1,4 @@
-# Episode 3: Get Data From Microsoft Excel | Ep. 3 | Microsoft Power BI Data Analysis Diploma
+# Episode 3: Get Data From Microsoft Excel
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 03** | Get Data From Microsoft Excel | Ep. 3 | Microsoft Power BI Data Analysis Diploma | `44m 33s` | [Watch on YouTube](https://www.youtube.com/watch?v=BO6xDtaNLpA) | [Download Sample Data](https://drive.google.com/drive/folders/1UWs2R2CIeGZlS4hl0n0V6jr8Hb0_Cplu?usp=sharing) |
+| **Ep. 03** | Get Data From Microsoft Excel | `44m 33s` | [Watch on YouTube](https://www.youtube.com/watch?v=BO6xDtaNLpA) | [Download Sample Data](https://drive.google.com/drive/folders/1UWs2R2CIeGZlS4hl0n0V6jr8Hb0_Cplu?usp=sharing) |
 
 ---
 

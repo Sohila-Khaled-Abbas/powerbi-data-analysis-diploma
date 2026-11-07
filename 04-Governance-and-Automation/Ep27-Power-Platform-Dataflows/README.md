@@ -1,4 +1,4 @@
-# Episode 27: Power Platform (Data Flows) | Ep. 27 | Microsoft Power BI Data Analysis Diploma
+# Episode 27: Power Platform (Data Flows)
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 27** | Power Platform (Data Flows) | Ep. 27 | Microsoft Power BI Data Analysis Diploma | `30m 20s` | [Watch on YouTube](https://www.youtube.com/watch?v=7JjoYsJgWUE) | [Download Sample Data](https://docs.google.com/spreadsheets/d/16Uw12kENYL8EpVsSrruz5FjdoqOdiWfG/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **Ep. 27** | Power Platform (Data Flows) | `30m 20s` | [Watch on YouTube](https://www.youtube.com/watch?v=7JjoYsJgWUE) | [Download Sample Data](https://docs.google.com/spreadsheets/d/16Uw12kENYL8EpVsSrruz5FjdoqOdiWfG/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

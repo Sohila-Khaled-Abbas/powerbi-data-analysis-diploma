@@ -1,4 +1,4 @@
-# Episode 56: Multi-Source Data Integration & Modeling | Case Study | Ep. 56 | Power BI Data Analysis Diploma
+# Episode 56: Multi-Source Data Integration & Modeling
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 56** | Multi-Source Data Integration & Modeling | Case Study | Ep. 56 | Power BI Data Analysis Diploma | `50m 28s` | [Watch on YouTube](https://www.youtube.com/watch?v=84iOcwPOvM0) | [Download Sample Data](https://drive.google.com/drive/folders/1rwi8bxdT5l_TBkomCyZAy9uM-OxR8Nq5) |
+| **Ep. 56** | Multi-Source Data Integration & Modeling | `50m 28s` | [Watch on YouTube](https://www.youtube.com/watch?v=84iOcwPOvM0) | [Download Sample Data](https://drive.google.com/drive/folders/1rwi8bxdT5l_TBkomCyZAy9uM-OxR8Nq5) |
 
 ---
 

@@ -1,4 +1,4 @@
-# Episode 2: Proper Raw Data Structure | Ep. 2 | Microsoft Power BI Data Analysis Diploma
+# Episode 2: Proper Raw Data Structure
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
@@ -10,7 +10,7 @@
 
 | Episode | Title | Duration | YouTube Link | Official Sample Data |
 |:-------:|:------|:--------:|:------------:|:--------------------:|
-| **Ep. 02** | Proper Raw Data Structure | Ep. 2 | Microsoft Power BI Data Analysis Diploma | `1h 18m 52s` | [Watch on YouTube](https://www.youtube.com/watch?v=vLgu68SUKPU) | [Download Sample Data](https://drive.google.com/file/d/1Jk9Z4xOK1r_mKwtAcnmZ-dlK3zSpx0i8/view?usp=sharing) |
+| **Ep. 02** | Proper Raw Data Structure | `1h 18m 52s` | [Watch on YouTube](https://www.youtube.com/watch?v=vLgu68SUKPU) | [Download Sample Data](https://drive.google.com/file/d/1Jk9Z4xOK1r_mKwtAcnmZ-dlK3zSpx0i8/view?usp=sharing) |
 
 ---
 
