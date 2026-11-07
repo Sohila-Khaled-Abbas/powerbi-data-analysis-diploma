@@ -4,3 +4,4 @@ Write-Host "============================================================" -Foreg
 Write-Host "Checking YouTube Playlist for new episodes..." -ForegroundColor Cyan
 Write-Host "============================================================" -ForegroundColor Cyan
 python scripts\sync_new_episodes.py $args
+

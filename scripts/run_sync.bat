@@ -10,3 +10,4 @@ python scripts\sync_new_episodes.py %*
 echo.
 echo Sync process finished.
 pause
+
