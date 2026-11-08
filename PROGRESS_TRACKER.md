@@ -91,3 +91,4 @@ Use this tracker to log your self-study progress through the diploma. Check off 
 | [ ] | **79** | Transform All Columns | `13m 43s` | [Ep79-Transform-All-Columns](07-Power-Query-Engine-and-M-Language/Ep79-Transform-All-Columns/README.md) | | |
 | [ ] | **80** | Null Coalescing Operator | `9m 17s` | [Ep80-Null-Coalescing-Operator](07-Power-Query-Engine-and-M-Language/Ep80-Null-Coalescing-Operator/README.md) | | |
 | [ ] | **81** | Try & Otherwise | `12m 17s` | [Ep81-Try-and-Otherwise](07-Power-Query-Engine-and-M-Language/Ep81-Try-and-Otherwise/README.md) | | |
+| [ ] | **82** | Reference Outside Scope | `8m 11s` | [Ep82-Reference-Outside-Scope](07-Power-Query-Engine-and-M-Language/Ep82-Reference-Outside-Scope/README.md) | | |
