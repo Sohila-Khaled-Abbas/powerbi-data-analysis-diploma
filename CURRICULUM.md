@@ -16,7 +16,7 @@ flowchart TD
     M3 --> M4["Module 04: Governance, Storage & Parameters<br>(Ep. 24 - 31)"]
     M4 --> M5["Module 05: Power Query Transformations<br>(Ep. 32 - 47)"]
     M5 --> M6["Module 06: Real-World Case Studies<br>(Ep. 48 - 64)"]
-    M6 --> M7["Module 07: Engine Internals & M Language<br>(Ep. 65 - 81)"]
+    M6 --> M7["Module 07: Engine Internals & M Language<br>(Ep. 65 - 82)"]
 
     style M1 fill:#f9f9f9,stroke:#333,stroke-width:1px
     style M2 fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
@@ -89,7 +89,7 @@ flowchart TD
 - **Ep 62 & 63:** Practical Exercises 1 & 2 (Hands-on Capstones).
 - **Ep 64:** Multi-Bank PDF Financial Statement Consolidation (Alrajhi & SNB).
 
-### [Module 07: Power Query Engine Internals & Advanced M Language](07-Power-Query-Engine-and-M-Language/README.md) (Ep. 65 - 81)
+### [Module 07: Power Query Engine Internals & Advanced M Language](07-Power-Query-Engine-and-M-Language/README.md) (Ep. 65 - 82)
 - **Ep 65:** Engine Deep-Dive: Null vs Blank vs DAX `BLANK()`.
 - **Ep 66:** Cartesian Products (Cross Joins): Generating Combinations & Avoiding Crashes.
 - **Ep 67:** Safe vs Breaking Changes & Preserving Query Folding.
@@ -106,6 +106,7 @@ flowchart TD
 - **Ep 79:** Bulk Column Processing with `Table.TransformColumns`.
 - **Ep 80:** The Null Coalescing Operator (`??`) for Concise Fallbacks.
 - **Ep 81:** Exception Handling in Production with `try ... otherwise`.
+- **Ep 82:** Reference Outside Scope: Scoping Rules, Closures & Lexical Environments in M Language.
 
 ---
 *Created as part of the Microsoft Power BI Data Analysis Diploma Repository.*

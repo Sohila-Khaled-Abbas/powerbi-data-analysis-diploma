@@ -2,7 +2,7 @@
 
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Essam Elsayed (عصام الصياد) - Microsoft Certified Trainer  
-> **Total Episodes:** 81 Lectures | Comprehensive Power BI, Power Query & M Language
+> **Total Episodes:** 82 Lectures | Comprehensive Power BI, Power Query & M Language
 
 ---
 
