@@ -67,6 +67,17 @@ in
 | `type logical` | Boolean True / False | `true` / `false` |
 | `type binary` | Raw binary stream | `File.Contents(...)` |
 
+### Rounding modes and tie-breaking
+
+`Number.Round` uses `RoundingMode.ToEven` by default when a value is exactly halfway between two results (banker's rounding). Do not assume this is the required financial or business rule; select the mode required by the reporting policy.
+
+~~~powerquery
+Number.Round(2.5)                              // 2: tie to even
+Number.Round(3.5)                              // 4: tie to even
+Number.Round(2.5, 0, RoundingMode.AwayFromZero) // 3
+Number.Round(-2.5, 0, RoundingMode.AwayFromZero) // -3
+~~~
+
 ### Locale-Sensitive Parsing
 When parsing international formats (e.g. British DD/MM/YYYY vs US MM/DD/YYYY):
 ```powerquery
@@ -299,31 +310,59 @@ in
 ## 10. Advanced Dynamic Transformation Patterns
 
 ### Transforming All Columns Dynamically
-Trim whitespace across every single column in a table without listing them manually:
+Trim whitespace across columns declared as text. Text.Trim accepts nullable text; applying it to number, date, logical, or other non-text columns can raise type errors. Set types first, or explicitly list intended columns:
 ```powerquery
 let
     Source = ...,
-    ColumnList = Table.ColumnNames(Source),
-    TransformOperations = List.Transform(ColumnList, each {_, Text.Trim}),
+    // Table.ColumnsOfType returns only columns whose declared type is text.
+    TextColumnNames = Table.ColumnsOfType(Source, {type text}),
+    TransformOperations = List.Transform(
+        TextColumnNames,
+        each {_, Text.Trim, type text}
+    ),
     CleanTable = Table.TransformColumns(Source, TransformOperations)
 in
     CleanTable
 ```
 
-### Dynamic Excel Folder Ingestion
-```powerquery
-let
-    Source = Folder.Files("C:\DataFolder"),
-    // Filter only real Excel files and exclude lock files (~$*)
-    #"Filtered Files" = Table.SelectRows(Source, each 
-        [Extension] = ".xlsx" and not Text.StartsWith([Name], "~$")
-    ),
-    #"Parsed Excel" = Table.AddColumn(#"Filtered Files", "Custom", each Excel.Workbook([Content], true)),
-    #"Expanded Tables" = Table.ExpandTableColumn(#"Parsed Excel", "Custom", {"Data", "Kind"}),
-    #"Filtered Sheets" = Table.SelectRows(#"Expanded Tables", each [Kind] = "Sheet")
-in
-    #"Filtered Sheets"
-```
+### Dynamic Excel Folder Ingestion (Same-Named Sheet Pattern)
 
+This version consolidates a worksheet named `Sales` from each workbook. Change the sheet name and file filters to match the actual folder contents.
+
+~~~powerquery
+let
+    Source = Folder.Files("C:\\DataFolder"),
+    FilteredFiles = Table.SelectRows(
+        Source,
+        each Text.Lower([Extension]) = ".xlsx"
+            and not Text.StartsWith([Name], "~$")
+    ),
+    AddedWorkbookObjects = Table.AddColumn(
+        FilteredFiles,
+        "WorkbookObjects",
+        each Excel.Workbook([Content], null, true)
+    ),
+    ExpandedWorkbookObjects = Table.ExpandTableColumn(
+        AddedWorkbookObjects,
+        "WorkbookObjects",
+        {"Item", "Kind", "Data"},
+        {"Item", "Kind", "Data"}
+    ),
+    // Assumes each workbook contains a worksheet named "Sales".
+    SelectedSalesSheets = Table.SelectRows(
+        ExpandedWorkbookObjects,
+        each [Kind] = "Sheet" and [Item] = "Sales"
+    ),
+    PromotedHeaders = Table.AddColumn(
+        SelectedSalesSheets,
+        "Rows",
+        each Table.PromoteHeaders([Data], [PromoteAllScalars = true])
+    ),
+    Combined = Table.Combine(PromotedHeaders[Rows])
+in
+    Combined
+~~~
+
+**Assumptions and checks:** all selected worksheets have compatible column structures; the sheet name matches exactly; hidden/temp files are considered; and column types are applied and validated after combining. This is a same-named-sheet pattern, not a universal workbook parser.
 ---
 *Created as part of the Microsoft Power BI Data Analysis Diploma Repository.*
