@@ -1,5 +1,19 @@
 # Learning & Data Flow Diagrams
 
+## SVG learning roadmap
+
+![Seven-phase roadmap](../assets/diagrams/learning-roadmap.svg)
+
+## SVG learning loop
+
+![Repeatable learning loop](../assets/diagrams/learning-loop.svg)
+
+## SVG Power Query pipeline
+
+![Power Query pipeline](../assets/diagrams/power-query-pipeline.svg)
+
+The editable Mermaid source below complements these rendered SVGs. See the [competency-based roadmap](LEARNING_ROADMAP.md) and [episode practice catalog](EPISODE_PRACTICE_CATALOG.md) for the study sequence and actual file inventory.
+
 These are conceptual learning aids. They do not claim that every course exercise implements the exact architecture shown.
 
 ## 1. Curriculum map
