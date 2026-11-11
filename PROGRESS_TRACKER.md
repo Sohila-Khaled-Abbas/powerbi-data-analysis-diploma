@@ -11,7 +11,7 @@ Use this tracker to log your self-study progress through the diploma. A checked 
 **Status guide:** Not started → Learning → Rebuilt → Validated → Reviewed/Mastered. Keep the checkbox unchecked until you can reproduce the core task, validate the result, and explain the decisions. Use [the episode practice catalog](docs/EPISODE_PRACTICE_CATALOG.md) to find the actual tracked assets and [the learning log](docs/LEARNING_LOG.md) for dated session notes.
 
 | Status | Ep # | Lecture Title | Duration | Hands-On Folder | Date Completed | Key Takeaways & Notes | Practice Status | Review Date | Evidence Link |
-|:------:|:----:|:--------------|:--------:|:---------------:|:--------------:|:----------------------|
+|:------:|:----:|:--------------|:--------:|:---------------:|:--------------:|:----------------------|:--------------:|:----------:|:-------------:|
 | [ ] | **01** | دبلومة تحليل البيانات - المحاضرة (١) - مقدمة | `13m 16s` | [Ep01-Introduction](01-Data-Foundations/Ep01-Introduction/README.md) | | | | | |
 | [ ] | **02** | Proper Raw Data Structure | `1h 18m 52s` | [Ep02-Proper-Raw-Data-Structure](01-Data-Foundations/Ep02-Proper-Raw-Data-Structure/README.md) | | | | | |
 | [ ] | **03** | Get Data From Microsoft Excel | `44m 33s` | [Ep03-Get-Data-From-Excel](02-Data-Acquisition/Ep03-Get-Data-From-Excel/README.md) | | | | | |
