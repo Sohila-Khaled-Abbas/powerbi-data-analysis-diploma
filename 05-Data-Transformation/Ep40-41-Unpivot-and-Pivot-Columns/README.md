@@ -59,11 +59,10 @@ Table.Pivot(Source, List.Distinct(Source[Metric]), "Metric", "Value", List.Sum)
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Unpivot & Pivot Columns.xlsx`** (`31,842` bytes)
-- 📄 **`unpivot.pbix`** (`102,480` bytes)
+- 📄 **`Unpivot & Pivot Columns.xlsx`** (`31.1 KB (31,842 bytes)`) — Excel practice dataset
+- 📊 **`unpivot.pbix`** (`100.1 KB (102,480 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

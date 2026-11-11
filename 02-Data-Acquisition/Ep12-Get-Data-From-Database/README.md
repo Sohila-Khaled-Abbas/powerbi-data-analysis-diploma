@@ -36,8 +36,7 @@ Source = Sql.Database("server_name", "db_name", [Query="SELECT * FROM Sales WHER
 
 ## 📁 Practice Files in this Repository
 
-No local binary dataset files are stored in this folder. You can use the official sample data link from the video description above, or practice directly inside Power BI Desktop following the video walkthrough.
-
+- *Included with the lecture instructions / no local dataset required.*
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

@@ -39,11 +39,10 @@ Table.TransformColumnTypes(Source, {{"EU_Amount", type number}}, "de-DE")
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`DatesCSV 23Aug26.csv`** (`47,091` bytes)
-- 📄 **`Locale (Dates vs. Numbers).pbix`** (`57,303` bytes)
+- 📋 **`DatesCSV 23Aug26.csv`** (`46.0 KB (47,091 bytes)`) — CSV data file
+- 📊 **`Locale (Dates vs. Numbers).pbix`** (`56.0 KB (57,303 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

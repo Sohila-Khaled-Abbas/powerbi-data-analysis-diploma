@@ -38,13 +38,12 @@ Comprehensive Capstone Project: Full BI Pipeline from Multiple Data Sources. Int
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Customer Database.xlsx`** (`17,155` bytes)
-- 📄 **`Product Database.xlsx`** (`35,992` bytes)
-- 📄 **`Sales Database.xlsx`** (`2,600,046` bytes)
-- 📄 **`SalesFullProject.pbix`** (`703,944` bytes)
+- 📄 **`Customer Database.xlsx`** (`16.8 KB (17,155 bytes)`) — Excel practice dataset
+- 📄 **`Product Database.xlsx`** (`35.1 KB (35,992 bytes)`) — Excel practice dataset
+- 📄 **`Sales Database.xlsx`** (`2.5 MB (2,600,046 bytes)`) — Excel practice dataset
+- 📊 **`SalesFullProject.pbix`** (`687.4 KB (703,944 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

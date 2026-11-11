@@ -38,11 +38,10 @@ Table.Group(Source, {"SalesRep", "Region"}, {{"TotalActual", each List.Sum([Sale
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Group By (Actual vs Forecast).pbix`** (`25,469` bytes)
-- 📄 **`SalesRep Actual VS Forecast.xlsx`** (`31,366` bytes)
+- 📊 **`Group By (Actual vs Forecast).pbix`** (`24.9 KB (25,469 bytes)`) — Power BI Desktop solution model
+- 📄 **`SalesRep Actual VS Forecast.xlsx`** (`30.6 KB (31,366 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

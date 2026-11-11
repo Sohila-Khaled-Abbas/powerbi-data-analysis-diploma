@@ -60,14 +60,13 @@ Source = Csv.Document(File.Contents("data.csv"), [Delimiter=",", QuoteStyle=Quot
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`1. csv Employees.csv`** (`1,167` bytes)
-- 📄 **`2. txt Customers.txt`** (`106` bytes)
-- 📄 **`3. csv Employees With Summary Header.csv`** (`1,237` bytes)
-- 📄 **`4. csv Employees With Quotes.csv`** (`1,622` bytes)
-- 📄 **`5. CSV Extract From Example.csv`** (`3,088` bytes)
+- 📋 **`1. csv Employees.csv`** (`1.1 KB (1,167 bytes)`) — CSV data file
+- 📋 **`2. txt Customers.txt`** (`106 bytes`) — Text / delimited data file
+- 📋 **`3. csv Employees With Summary Header.csv`** (`1.2 KB (1,237 bytes)`) — CSV data file
+- 📋 **`4. csv Employees With Quotes.csv`** (`1.6 KB (1,622 bytes)`) — CSV data file
+- 📋 **`5. CSV Extract From Example.csv`** (`3.0 KB (3,088 bytes)`) — CSV data file
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

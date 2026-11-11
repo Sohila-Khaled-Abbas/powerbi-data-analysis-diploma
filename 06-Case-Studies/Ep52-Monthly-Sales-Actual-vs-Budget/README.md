@@ -38,11 +38,10 @@ Real-World Case Study: Monthly Sales (Actual vs Budget). Models disparate operat
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Monthly Sales (Actual vs Budget).pbix`** (`30,467` bytes)
-- 📄 **`Monthly Sales (Actual vs Budget).xlsx`** (`36,372` bytes)
+- 📊 **`Monthly Sales (Actual vs Budget).pbix`** (`29.8 KB (30,467 bytes)`) — Power BI Desktop solution model
+- 📄 **`Monthly Sales (Actual vs Budget).xlsx`** (`35.5 KB (36,372 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

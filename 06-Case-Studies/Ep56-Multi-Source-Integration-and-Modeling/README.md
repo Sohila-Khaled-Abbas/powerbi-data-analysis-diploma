@@ -38,14 +38,16 @@ Advanced Case Study: Multi-Source Data Integration & Star Schema Modeling. Inges
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Category Database.xlsx`** (`10,076` bytes)
-- 📄 **`Customer Database.txt`** (`2,463` bytes)
-- 📄 **`Multi-Source Data Integration & Modeling (Case Study).pbix`** (`9,723,334` bytes)
-- 📄 **`Product Database.pdf`** (`143,443` bytes)
-- 📂 **`SalesDatabase/`** (Directory containing 4 dataset files)
+- 📄 **`Category Database.xlsx`** (`9.8 KB (10,076 bytes)`) — Excel practice dataset
+- 📋 **`Customer Database.txt`** (`2.4 KB (2,463 bytes)`) — Text / delimited data file
+- 📊 **`Multi-Source Data Integration & Modeling (Case Study).pbix`** (`9.3 MB (9,723,334 bytes)`) — Power BI Desktop solution model
+- 📑 **`Product Database.pdf`** (`140.1 KB (143,443 bytes)`) — PDF source document / statement
+- 📄 **`SalesDatabase/FY-2020 Sales Database.xlsx`** (`7.6 MB (7,928,908 bytes)`) — Excel practice dataset
+- 📄 **`SalesDatabase/FY-2021 Sales Database.xlsx`** (`7.5 MB (7,870,959 bytes)`) — Excel practice dataset
+- 📄 **`SalesDatabase/FY-2022 Sales Database.xlsx`** (`7.6 MB (7,920,441 bytes)`) — Excel practice dataset
+- 📄 **`SalesDatabase/FY-2023 Sales Database.xlsx`** (`7.6 MB (7,920,804 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

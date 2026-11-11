@@ -38,11 +38,10 @@ Table.AddColumn(Source, "GroupIndex", each Number.IntegerDivide([Index], 2))
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Fragmented Rows Case.xlsx`** (`12,796` bytes)
-- 📄 **`Fragmented Rows.pbix`** (`21,399` bytes)
+- 📄 **`Fragmented Rows Case.xlsx`** (`12.5 KB (12,796 bytes)`) — Excel practice dataset
+- 📊 **`Fragmented Rows.pbix`** (`20.9 KB (21,399 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

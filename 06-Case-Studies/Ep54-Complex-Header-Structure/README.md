@@ -39,11 +39,10 @@ Real-World Case Study: Complex Header Structure. Deconstructs an intricate enter
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Complex Header Structure Case.xlsx`** (`14,828` bytes)
-- 📄 **`Complex Header Structure.pbix`** (`28,674` bytes)
+- 📄 **`Complex Header Structure Case.xlsx`** (`14.5 KB (14,828 bytes)`) — Excel practice dataset
+- 📊 **`Complex Header Structure.pbix`** (`28.0 KB (28,674 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

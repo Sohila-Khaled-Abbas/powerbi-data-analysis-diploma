@@ -38,10 +38,7 @@ Table.SelectRows(Source, each [Country] <> "" and [Country] <> "Notes")
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`GDP Database.txt`** (`67,555` bytes)
-
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+- 📋 **`GDP Database.txt`** (`66.0 KB (67,555 bytes)`) — Text / delimited data file
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

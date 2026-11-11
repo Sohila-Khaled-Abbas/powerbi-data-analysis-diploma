@@ -39,14 +39,19 @@ Sheet1 = Source{[Item="Sheet1",Kind="Sheet"]}[Data]
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`1. Sales Dastabase.xlsx`** (`5,452,231` bytes)
-- 📄 **`2. Sales Dastabase.xlsx`** (`5,455,308` bytes)
-- 📄 **`3. Countries Database.xlsx`** (`349,310` bytes)
-- 📂 **`4. Employees Datebase/`** (Directory containing 7 dataset files)
-- 📄 **`Excel Data.pbix`** (`2,495,695` bytes)
+- 📄 **`1. Sales Dastabase.xlsx`** (`5.2 MB (5,452,231 bytes)`) — Excel practice dataset
+- 📄 **`2. Sales Dastabase.xlsx`** (`5.2 MB (5,455,308 bytes)`) — Excel practice dataset
+- 📄 **`3. Countries Database.xlsx`** (`341.1 KB (349,310 bytes)`) — Excel practice dataset
+- 📊 **`Excel Data.pbix`** (`2.4 MB (2,495,695 bytes)`) — Power BI Desktop solution model
+- 📄 **`4. Employees Datebase/Administration.xlsx`** (`19.8 KB (20,266 bytes)`) — Excel practice dataset
+- 📄 **`4. Employees Datebase/Business Development.xlsx`** (`21.1 KB (21,589 bytes)`) — Excel practice dataset
+- 📄 **`4. Employees Datebase/Customer Service.xlsx`** (`22.2 KB (22,725 bytes)`) — Excel practice dataset
+- 📄 **`4. Employees Datebase/Finance.xlsx`** (`22.9 KB (23,479 bytes)`) — Excel practice dataset
+- 📄 **`4. Employees Datebase/Human Resources.xlsx`** (`21.1 KB (21,571 bytes)`) — Excel practice dataset
+- 📄 **`4. Employees Datebase/IT.xlsx`** (`21.7 KB (22,187 bytes)`) — Excel practice dataset
+- 📄 **`4. Employees Datebase/Legal.xlsx`** (`21.1 KB (21,599 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

@@ -40,11 +40,10 @@ Combined = Table.Combine(ValidSheets[Data])
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`HRDatabase.xlsx`** (`14,971` bytes)
-- 📄 **`HRDatabase2.xlsx`** (`9,468` bytes)
+- 📄 **`HRDatabase.xlsx`** (`14.6 KB (14,971 bytes)`) — Excel practice dataset
+- 📄 **`HRDatabase2.xlsx`** (`9.2 KB (9,468 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

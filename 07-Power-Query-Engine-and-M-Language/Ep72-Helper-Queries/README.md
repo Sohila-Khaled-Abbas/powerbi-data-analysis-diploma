@@ -41,12 +41,23 @@ Architecting Helper Queries in Power Query. Demonstrates decomposing monolithic 
 
 This episode folder contains the following hands-on practice assets:
 
-- 📂 **`Department Folder/`** (Directory containing 7 dataset files)
-- 📂 **`Helper Queries/`** (Directory containing 7 dataset files)
-- 📄 **`Helper Queries.pbix`** (`71,100` bytes)
+- 📊 **`Helper Queries.pbix`** (`69.4 KB (71,100 bytes)`) — Power BI Desktop solution model
+- 📄 **`Department Folder/Administration.xlsx`** (`19.8 KB (20,266 bytes)`) — Excel practice dataset
+- 📄 **`Department Folder/Business Development.xlsx`** (`21.1 KB (21,589 bytes)`) — Excel practice dataset
+- 📄 **`Department Folder/Customer Service.xlsx`** (`22.2 KB (22,725 bytes)`) — Excel practice dataset
+- 📄 **`Department Folder/Finance.xlsx`** (`22.9 KB (23,479 bytes)`) — Excel practice dataset
+- 📄 **`Department Folder/Human Resources.xlsx`** (`21.1 KB (21,571 bytes)`) — Excel practice dataset
+- 📄 **`Department Folder/IT.xlsx`** (`21.7 KB (22,187 bytes)`) — Excel practice dataset
+- 📄 **`Department Folder/Legal.xlsx`** (`21.1 KB (21,599 bytes)`) — Excel practice dataset
+- 📄 **`Helper Queries/Administration.xlsx`** (`14.7 KB (15,061 bytes)`) — Excel practice dataset
+- 📄 **`Helper Queries/Business Development.xlsx`** (`21.1 KB (21,589 bytes)`) — Excel practice dataset
+- 📄 **`Helper Queries/Customer Service.xlsx`** (`17.2 KB (17,599 bytes)`) — Excel practice dataset
+- 📄 **`Helper Queries/Finance.xlsx`** (`22.9 KB (23,479 bytes)`) — Excel practice dataset
+- 📄 **`Helper Queries/Human Resources.xlsx`** (`21.1 KB (21,571 bytes)`) — Excel practice dataset
+- 📄 **`Helper Queries/IT.xlsx`** (`21.7 KB (22,187 bytes)`) — Excel practice dataset
+- 📄 **`Helper Queries/Legal.xlsx`** (`16.1 KB (16,436 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

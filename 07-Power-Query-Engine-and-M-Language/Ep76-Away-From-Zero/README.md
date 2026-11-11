@@ -39,10 +39,10 @@ Number.Round(2.5, 0, RoundingMode.ToEven)       // Returns 2 (Banker's Rounding)
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Away From Zero.xlsx`** (`10,600` bytes)
+- 📊 **`Away From Zero.pbix`** (`21.6 KB (22,098 bytes)`) — Power BI Desktop solution model
+- 📄 **`Away From Zero.xlsx`** (`11.0 KB (11,299 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

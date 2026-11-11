@@ -38,11 +38,10 @@ Table.Distinct(Source, {"TransactionID", "Date"})
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Fragmented Duplicate & Merge.pbix`** (`22,111` bytes)
-- 📄 **`Fragmented Duplicate & Merge.xlsx`** (`9,671` bytes)
+- 📊 **`Fragmented Duplicate & Merge.pbix`** (`21.6 KB (22,111 bytes)`) — Power BI Desktop solution model
+- 📄 **`Fragmented Duplicate & Merge.xlsx`** (`9.4 KB (9,671 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

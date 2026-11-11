@@ -39,13 +39,12 @@ Table.TransformColumnTypes(Source, {{"Price", type number}}, "de-DE")
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Local Interpretation Essam Elsdayad.pbix`** (`257,083,764` bytes)
-- 📄 **`WideWorldImporters_2021-23.xlsx`** (`23,408,295` bytes)
-- 📄 **`csv_wideworldimporters.csv`** (`20,836,447` bytes)
-- 📄 **`datatypes.xlsx`** (`32,267` bytes)
+- 📊 **`Local Interpretation Essam Elsdayad.pbix`** (`245.2 MB (257,083,764 bytes)`) — Power BI Desktop solution model
+- 📄 **`WideWorldImporters_2021-23.xlsx`** (`22.3 MB (23,408,295 bytes)`) — Excel practice dataset
+- 📋 **`csv_wideworldimporters.csv`** (`19.9 MB (20,836,447 bytes)`) — CSV data file
+- 📄 **`datatypes.xlsx`** (`31.5 KB (32,267 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

@@ -66,12 +66,11 @@ MyTable = #table({"ID", "Name"}, {{1, "Essam"}, {2, "Mai"}})
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`M Language Theory.pdf`** (`4,685,560` bytes)
-- 📄 **`M Language.pbix`** (`20,969` bytes)
-- 📄 **`M Language.xlsx`** (`10,124` bytes)
+- 📑 **`M Language Theory.pdf`** (`4.5 MB (4,685,560 bytes)`) — PDF source document / statement
+- 📊 **`M Language.pbix`** (`20.5 KB (20,969 bytes)`) — Power BI Desktop solution model
+- 📄 **`M Language.xlsx`** (`9.9 KB (10,124 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

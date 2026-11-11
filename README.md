@@ -2,20 +2,20 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Instructor-Essam%20Elsayed%20(MCT)-blue.svg" alt="Instructor">
-  <img src="https://img.shields.io/badge/Lectures-82%20Comprehensive%20Episodes-brightgreen.svg" alt="Lectures">
+  <img src="https://img.shields.io/badge/Lectures-83%20Comprehensive%20Episodes-brightgreen.svg" alt="Lectures">
   <img src="https://img.shields.io/badge/Platform-Microsoft%20Power%20BI-F2C811.svg?logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/ETL%20Engine-Power%20Query%20(M%20Language)-blueviolet.svg" alt="Power Query">
   <img src="https://img.shields.io/badge/Status-100%25%20Documented%20%26%20Organized-success.svg" alt="Status">
 </p>
 
-> 🎯 **A comprehensive, production-grade GitHub learning repository and technical documentation hub for the complete 82-lecture Microsoft Power BI Data Analysis Diploma taught by Eng. Essam Elsayed (عصام الصياد) on YouTube.**
+> 🎯 **A comprehensive, production-grade GitHub learning repository and technical documentation hub for the complete 83-lecture Microsoft Power BI Data Analysis Diploma taught by Eng. Essam Elsayed (عصام الصياد) on YouTube.**
 
 📺 **Official YouTube Playlist:** [Watch All Lectures on YouTube](https://www.youtube.com/playlist?list=PLkYJ59mAhUsMbZQ4AmBmGt0EEyrTrg5mX)
 
 ---
 
 ## 🌟 About This Course & Repository
-This repository serves as a structured, hands-on self-study companion for the **Microsoft Power BI Data Analysis Diploma**. It organizes all 82 video lectures into **7 modular phases**, providing:
+This repository serves as a structured, hands-on self-study companion for the **Microsoft Power BI Data Analysis Diploma**. It organizes all 83 video lectures into **7 modular phases**, providing:
 - 📂 **Structured Practice Folders**: Cleanly arranged datasets (`.pbix`, `.xlsx`, `.csv`, `.pdf`, `.json`) corresponding directly to each lecture.
 - 📖 **Deep Technical Documentation**: In-depth `README.md` for every single lecture explaining core business concepts, methodology, and step-by-step instructions.
 - ⚡ **M Language Code Reference**: Practical, ready-to-use M expressions, custom function templates, and engine optimization patterns.
@@ -33,14 +33,14 @@ graph TD
     M3 --> M4["04-Governance-and-Automation<br><b>Ep. 24 - 31</b><br>Privacy, Dataflows, Storage & Parameters"]
     M4 --> M5["05-Data-Transformation<br><b>Ep. 32 - 47</b><br>Types, Pivot, Unpivot, Append & Merge"]
     M5 --> M6["06-Case-Studies<br><b>Ep. 48 - 64</b><br>17 Real-World Enterprise Projects"]
-    M6 --> M7["07-Power-Query-Engine-and-M-Language<br><b>Ep. 65 - 82</b><br>Engine Internals, Custom Functions & Exception Handling"]
+    M6 --> M7["07-Power-Query-Engine-and-M-Language<br><b>Ep. 65 - 83</b><br>Engine Internals, Custom Functions & Exception Handling"]
 ```
 
 See the full [**Course Curriculum & Syllabus (CURRICULUM.md)**](CURRICULUM.md) for deep syllabus details.
 
 ---
 
-## 📑 Master Episode Directory (All 82 Lectures)
+## 📑 Master Episode Directory (All 83 Lectures)
 
 | Ep # | Module | Lecture Title | Duration | Hands-On Folder | Video Link | Official Sample Data |
 |:----:|:-------|:--------------|:--------:|:----------------|:----------:|:--------------------:|

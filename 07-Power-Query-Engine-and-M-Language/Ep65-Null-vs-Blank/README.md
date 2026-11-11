@@ -41,11 +41,10 @@ Engine Deep Dive: Null vs Blank. Comprehensive technical explanation of how Powe
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Null vs Blank.pbix`** (`28,747` bytes)
-- 📄 **`Test.xlsx`** (`9,429` bytes)
+- 📊 **`Null vs Blank.pbix`** (`28.1 KB (28,747 bytes)`) — Power BI Desktop solution model
+- 📄 **`Test.xlsx`** (`9.2 KB (9,429 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

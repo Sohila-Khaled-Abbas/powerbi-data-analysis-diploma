@@ -39,20 +39,16 @@ Source = Folder.Files("C:\Data"),
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Case study.pbix`** (`81,924` bytes)
-- 📄 **`New Bitmap Image.bmp`** (`0` bytes)
-- 📄 **`New Microsoft Excel Worksheet.xlsx`** (`5,739` bytes)
-- 📄 **`New Microsoft PowerPoint Presentation.pptx`** (`0` bytes)
-- 📄 **`New Microsoft Word Document.docx`** (`0` bytes)
-- 📄 **`New Text Document.txt`** (`0` bytes)
-- 📄 **`Year - 2005.xlsx`** (`16,521` bytes)
-- 📄 **`Year - 2006.xlsx`** (`15,846` bytes)
-- 📄 **`Year - 2007.xlsx`** (`17,047` bytes)
-- 📄 **`Year - 2008.xlsx`** (`16,384` bytes)
-- 📄 **`Year - 2009.xlsx`** (`19,769` bytes)
+- 📊 **`Case study.pbix`** (`80.0 KB (81,924 bytes)`) — Power BI Desktop solution model
+- 📄 **`New Microsoft Excel Worksheet.xlsx`** (`5.6 KB (5,739 bytes)`) — Excel practice dataset
+- 📋 **`New Text Document.txt`** (`0 bytes`) — Text / delimited data file
+- 📄 **`Year - 2005.xlsx`** (`16.1 KB (16,521 bytes)`) — Excel practice dataset
+- 📄 **`Year - 2006.xlsx`** (`15.5 KB (15,846 bytes)`) — Excel practice dataset
+- 📄 **`Year - 2007.xlsx`** (`16.6 KB (17,047 bytes)`) — Excel practice dataset
+- 📄 **`Year - 2008.xlsx`** (`16.0 KB (16,384 bytes)`) — Excel practice dataset
+- 📄 **`Year - 2009.xlsx`** (`19.3 KB (19,769 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

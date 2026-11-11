@@ -39,10 +39,10 @@ Table.SelectColumns(Source, {"ColA", "ColB"}, MissingField.Ignore)
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Missing Fields.xlsx`** (`9,625` bytes)
+- 📊 **`Missing Fields.pbix`** (`24.3 KB (24,840 bytes)`) — Power BI Desktop solution model
+- 📄 **`Missing Fields.xlsx`** (`9.5 KB (9,702 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

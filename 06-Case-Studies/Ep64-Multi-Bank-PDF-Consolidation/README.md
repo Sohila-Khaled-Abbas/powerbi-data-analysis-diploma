@@ -39,12 +39,11 @@ Enterprise Case Study: Multi-Bank PDF Consolidation. Consolidates monthly bank s
 
 This episode folder contains the following hands-on practice assets:
 
-- 📂 **`Alrajhi/`** (Directory containing 1 dataset files)
-- 📄 **`Multi-Bank PDF Consolidation.pbix`** (`36,810` bytes)
-- 📂 **`SNB/`** (Directory containing 1 dataset files)
+- 📊 **`Multi-Bank PDF Consolidation.pbix`** (`35.9 KB (36,810 bytes)`) — Power BI Desktop solution model
+- 📑 **`Alrajhi/Alrajhi Bank.pdf`** (`212.2 KB (217,283 bytes)`) — PDF source document / statement
+- 📑 **`SNB/SNB Bank.pdf`** (`41.2 KB (42,188 bytes)`) — PDF source document / statement
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

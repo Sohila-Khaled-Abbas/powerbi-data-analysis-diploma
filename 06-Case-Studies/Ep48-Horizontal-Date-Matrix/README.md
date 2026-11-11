@@ -38,11 +38,10 @@ Real-World Case Study: Transforming a Horizontal Date Matrix. Solves a classic e
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Horizontal Date Matrix Case.xlsx`** (`24,698` bytes)
-- 📄 **`Horizontal Date Matrix.pbix`** (`23,540` bytes)
+- 📄 **`Horizontal Date Matrix Case.xlsx`** (`24.1 KB (24,698 bytes)`) — Excel practice dataset
+- 📊 **`Horizontal Date Matrix.pbix`** (`23.0 KB (23,540 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

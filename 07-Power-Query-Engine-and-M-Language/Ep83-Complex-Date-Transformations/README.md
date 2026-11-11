@@ -31,6 +31,16 @@
 - [Dataset 1](https://docs.google.com/spreadsheets/d/1E3DG8f0uSnhfkGwGHvr0grmO01ytu6_e/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true)
 
 
+
+---
+
+## 📁 Practice Files in this Repository
+
+This episode folder contains the following hands-on practice assets:
+
+- 📄 **`Complex_Date_Transformations.xlsx`** (`11.0 KB (11,268 bytes)`) — Excel practice dataset
+
+> 💡 **How to use:** Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## ✅ Self-Study Checklist

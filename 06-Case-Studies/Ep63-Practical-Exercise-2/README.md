@@ -38,11 +38,10 @@ Practical Hands-on Exercise 2. Advanced practical assignment challenging student
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Practical Exercise (2).pbix`** (`23,404` bytes)
-- 📄 **`Practical Exercise -2 2Sep26.xlsx`** (`25,194` bytes)
+- 📊 **`Practical Exercise (2).pbix`** (`22.9 KB (23,404 bytes)`) — Power BI Desktop solution model
+- 📄 **`Practical Exercise -2 2Sep26.xlsx`** (`24.6 KB (25,194 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

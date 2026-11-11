@@ -60,12 +60,13 @@ Source = Excel.Workbook(File.Contents(FilePathParameter), null, true)
 
 This episode folder contains the following hands-on practice assets:
 
-- 📂 **`Change DataSource/`** (Directory containing 3 dataset files)
-- 📄 **`Essam Elsayad 13May26.xlsx`** (`17,524,657` bytes)
-- 📄 **`New Template.pbit`** (`24,776` bytes)
+- 📄 **`Essam Elsayad 13May26.xlsx`** (`16.7 MB (17,524,657 bytes)`) — Excel practice dataset
+- 📊 **`New Template.pbit`** (`24.2 KB (24,776 bytes)`) — Power BI template model
+- 📄 **`Change DataSource/EssamElsayad Full.xlsx`** (`67.4 MB (70,709,546 bytes)`) — Excel practice dataset
+- 📄 **`Change DataSource/EssamElsayad Sample.xlsx`** (`16.7 MB (17,524,579 bytes)`) — Excel practice dataset
+- 📊 **`Change DataSource/change data source.pbix`** (`21.7 MB (22,714,045 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

@@ -40,11 +40,10 @@ Source = Json.Document(File.Contents("data.json")),
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Essam Elsayad.json`** (`2,541,993` bytes)
-- 📄 **`JSON.pbix`** (`1,200,515` bytes)
+- 📦 **`Essam Elsayad.json`** (`2.4 MB (2,541,993 bytes)`) — JSON data payload
+- 📊 **`JSON.pbix`** (`1.1 MB (1,200,515 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

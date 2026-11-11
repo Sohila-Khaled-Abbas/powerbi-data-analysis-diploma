@@ -39,11 +39,10 @@ Step Errors vs Cell Errors in Power Query. Teaches the difference between step-l
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Eps 68 - Step Error vs. Cell Error.xlsx`** (`14,425` bytes)
-- 📄 **`Step Error vs. Cell Error.pbix`** (`23,450` bytes)
+- 📄 **`Eps 68 - Step Error vs. Cell Error.xlsx`** (`14.1 KB (14,425 bytes)`) — Excel practice dataset
+- 📊 **`Step Error vs. Cell Error.pbix`** (`22.9 KB (23,450 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

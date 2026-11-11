@@ -39,11 +39,19 @@ Table1 = Source{[Id="Table001"]}[Data]
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`1. Sales Database.pdf`** (`4,762,386` bytes)
-- 📂 **`2. Employees Database/`** (Directory containing 12 dataset files)
-
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+- 📑 **`1. Sales Database.pdf`** (`4.5 MB (4,762,386 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Abdullah Alomary.pdf`** (`132.9 KB (136,128 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Abeer Mohamed.pdf`** (`127.8 KB (130,820 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Ahmed Ezzat.pdf`** (`127.5 KB (130,546 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Ahmed Yousef.pdf`** (`133.2 KB (136,414 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Amal Abdelfatah.pdf`** (`125.2 KB (128,178 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Amal Mohamed.pdf`** (`131.7 KB (134,884 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Azza Abdelrahman.pdf`** (`132.5 KB (135,675 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Berry Hassan.pdf`** (`129.4 KB (132,498 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Essam Elsayad.pdf`** (`126.9 KB (129,956 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Hala Ahmed.pdf`** (`128.8 KB (131,918 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Hassan Abdelrahman.pdf`** (`535.1 KB (547,991 bytes)`) — PDF source document / statement
+- 📑 **`2. Employees Database/Mahmoud Hamouda.pdf`** (`128.2 KB (131,274 bytes)`) — PDF source document / statement
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

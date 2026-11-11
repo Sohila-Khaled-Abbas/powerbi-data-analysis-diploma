@@ -39,10 +39,9 @@ DynamicColumns = List.Select(ColumnList, each Text.StartsWith(_, "20"))
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Hardcode vs Logic.xlsx`** (`14,581` bytes)
+- 📄 **`Hardcode vs Logic.xlsx`** (`14.2 KB (14,581 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

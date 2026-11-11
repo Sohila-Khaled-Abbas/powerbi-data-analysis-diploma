@@ -59,11 +59,10 @@ Table.Combine({Sales2021, Sales2022, Sales2023})
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Append Eps44.xlsx`** (`17,342,011` bytes)
-- 📄 **`append.pbix`** (`5,162,335` bytes)
+- 📄 **`Append Eps44.xlsx`** (`16.5 MB (17,342,011 bytes)`) — Excel practice dataset
+- 📊 **`append.pbix`** (`4.9 MB (5,162,335 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

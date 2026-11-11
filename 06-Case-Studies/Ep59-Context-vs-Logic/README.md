@@ -38,10 +38,9 @@ Table.AddColumn(Source, "RelativePercent", (r) => r[Sales] / Table.Column(Source
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Context vs Logic (Case Study).pbix`** (`44,984` bytes)
+- 📊 **`Context vs Logic (Case Study).pbix`** (`43.9 KB (44,984 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

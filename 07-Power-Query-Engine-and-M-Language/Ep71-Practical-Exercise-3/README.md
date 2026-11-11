@@ -38,11 +38,10 @@ Practical Hands-on Exercise 3: Advanced M-Code Challenge. Comprehensive programm
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Ep. 71.xlsx`** (`10,002` bytes)
-- 📄 **`Practical Exercise - 3.pbix`** (`34,095` bytes)
+- 📄 **`Ep. 71.xlsx`** (`9.8 KB (10,002 bytes)`) — Excel practice dataset
+- 📊 **`Practical Exercise - 3.pbix`** (`33.3 KB (34,095 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

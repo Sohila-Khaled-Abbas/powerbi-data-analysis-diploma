@@ -40,10 +40,10 @@ Frequency vs Sequence Analysis in Power Query. Analyzes event logs, transaction 
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Frequency vs Sequence Analysis.xlsx`** (`26,482` bytes)
+- 📄 **`Frequency vs Sequence Analysis.xlsx`** (`25.9 KB (26,482 bytes)`) — Excel practice dataset
+- 📊 **`Frequency vs. Sequence Analysis.pbix`** (`22.8 KB (23,388 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

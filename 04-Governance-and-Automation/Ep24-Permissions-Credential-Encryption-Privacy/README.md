@@ -40,11 +40,10 @@ Mastering Power BI Permissions, Credential Management, Encryption, and Data Priv
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Permissions (Credential, Encryption & Privacy).pdf`** (`695,968` bytes)
-- 📄 **`csv_employees.csv`** (`1,167` bytes)
+- 📑 **`Permissions (Credential, Encryption & Privacy).pdf`** (`679.7 KB (695,968 bytes)`) — PDF source document / statement
+- 📋 **`csv_employees.csv`** (`1.1 KB (1,167 bytes)`) — CSV data file
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

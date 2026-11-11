@@ -83,10 +83,9 @@ Combined = Table.Combine(Tables)
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`get data from web.pbix`** (`79,272` bytes)
+- 📊 **`get data from web.pbix`** (`77.4 KB (79,272 bytes)`) — Power BI Desktop solution model
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

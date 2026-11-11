@@ -39,12 +39,11 @@ Safe vs Breaking Changes in Power Query. Explains Query Folding preservation, pr
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Safe vs. Breaking Changes.pbix`** (`58,206` bytes)
-- 📄 **`Safe vs. Breaking Changes.xlsx`** (`72,469` bytes)
-- 📄 **`Very Important Notes.pdf`** (`56,960` bytes)
+- 📊 **`Safe vs. Breaking Changes.pbix`** (`56.8 KB (58,206 bytes)`) — Power BI Desktop solution model
+- 📄 **`Safe vs. Breaking Changes.xlsx`** (`70.8 KB (72,469 bytes)`) — Excel practice dataset
+- 📑 **`Very Important Notes.pdf`** (`55.6 KB (56,960 bytes)`) — PDF source document / statement
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

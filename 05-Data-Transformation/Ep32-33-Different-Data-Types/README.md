@@ -59,14 +59,13 @@ Table.TransformColumnTypes(Source, {{"ID", Int64.Type}, {"Date", type date}, {"A
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Essam Elsayad.pbix`** (`134,174,599` bytes)
-- 📄 **`Essam Elsayad.xlsx`** (`23,408,032` bytes)
-- 📄 **`WideWorldImporters_2021-23.xlsx`** (`22,800,736` bytes)
-- 📄 **`datatypes.xlsx`** (`32,254` bytes)
-- 📄 **`datatypes_info.xlsx`** (`30,512` bytes)
+- 📊 **`Essam Elsayad.pbix`** (`128.0 MB (134,174,599 bytes)`) — Power BI Desktop solution model
+- 📄 **`Essam Elsayad.xlsx`** (`22.3 MB (23,408,032 bytes)`) — Excel practice dataset
+- 📄 **`WideWorldImporters_2021-23.xlsx`** (`21.7 MB (22,800,736 bytes)`) — Excel practice dataset
+- 📄 **`datatypes.xlsx`** (`31.5 KB (32,254 bytes)`) — Excel practice dataset
+- 📄 **`datatypes_info.xlsx`** (`29.8 KB (30,512 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**, or open `.xlsx` files in **Microsoft Excel** to inspect the source schemas and practice the transformations step-by-step.
-
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist
