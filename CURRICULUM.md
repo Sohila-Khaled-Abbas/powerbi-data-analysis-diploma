@@ -1,5 +1,7 @@
 # 🎓 Complete Course Curriculum & Learning Roadmap
 
+> **Release 2 study resources:** [visual competency roadmap](docs/LEARNING_ROADMAP.md) · [episode practice catalog](docs/EPISODE_PRACTICE_CATALOG.md) · [personal learning log](docs/LEARNING_LOG.md)
+
 > **Course:** Microsoft Power BI Data Analysis Diploma (دبلومة تحليل البيانات)  
 > **Instructor:** Eng. Essam Elsayed (المهندس عصام الصياد) - Microsoft Certified Trainer (MCT)  
 > **Official Playlist:** [YouTube Playlist Link](https://www.youtube.com/playlist?list=PLkYJ59mAhUsMbZQ4AmBmGt0EEyrTrg5mX)  
