@@ -70,7 +70,7 @@ The snippet below is a navigation pattern. Replace the path, object name, and ob
 
 ~~~powerquery
 let
-    FilePath = "C:\\Data\\Sales.xlsx",
+    FilePath = "C:\Data\Sales.xlsx",
     WorkbookObjects = Excel.Workbook(File.Contents(FilePath), null, true),
     SelectedTable = WorkbookObjects{[Item = "Sales", Kind = "Table"]}[Data]
 in
