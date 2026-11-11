@@ -183,13 +183,22 @@ This repository includes continuous synchronization with the [official YouTube p
    - 📝 Generates a structured `README.md` for the new lecture.
    - 📊 Updates `README.md`, `PROGRESS_TRACKER.md`, and module directory tables automatically.
    - 🚀 Commits and pushes the updates directly to GitHub.
-3. **Manual / Local Sync:**
-   - On Windows: Run `scripts\run_sync.bat` or `powershell -File scripts\run_sync.ps1`.
-   - Via CLI:
+3. **One-Click Local Updater & Publisher:**
+   Whenever you add new practice files, solve exercises, or want to publish your latest progress to GitHub:
+   - **Double-click on Windows:** [`scripts/publish_updates.bat`](scripts/publish_updates.bat)
+   - **PowerShell:** `powershell -File scripts/publish_updates.ps1`
+   - **CLI:**
      ```bash
-     python scripts/sync_new_episodes.py            # Check and sync
-     python scripts/sync_new_episodes.py --dry-run  # Check only without making changes
+     python scripts/publish_updates.py            # Syncs new YouTube videos, documents new files & pushes
+     python scripts/publish_updates.py --no-sync  # Updates docs for local files & pushes (skips YouTube check)
+     python scripts/publish_updates.py --dry-run  # Preview changes without committing
      ```
+   This script automatically:
+   - Scans all episode folders for any new `.pbix`, `.xlsx`, `.csv`, `.pdf` files you created.
+   - Refreshes the `Practice Files` section of each episode's `README.md`.
+   - Checks YouTube for new episodes and downloads datasets.
+   - Updates course syllabus totals across `README.md`, `CURRICULUM.md`, and `PROGRESS_TRACKER.md`.
+   - Stages, commits, and pushes directly to GitHub!
 
 ---
 
