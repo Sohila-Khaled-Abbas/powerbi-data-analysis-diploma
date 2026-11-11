@@ -1,5 +1,7 @@
 # Learning Path & Study Method
 
+> **Release 2 learning system:** use the [competency-based roadmap](LEARNING_ROADMAP.md), [episode-by-episode practice catalog](EPISODE_PRACTICE_CATALOG.md), and [personal learning log](LEARNING_LOG.md) together with this session method.
+
 A practical guide for studying the 83-episode diploma. Adapt the pace to your schedule; prioritize practice and the ability to explain your decisions.
 
 ## Study in six passes
@@ -60,3 +62,12 @@ Keep a before/after sample, a readable query or M snippet, a short explanation o
 - After phase 7: write a typed custom function and handle missing fields safely.
 
 **Study principle:** explain the reason behind a transformation. Memorizing button sequences is not the same as understanding the data problem.
+
+
+## Asset-aware practice
+
+Before starting an episode, check the [episode practice catalog](EPISODE_PRACTICE_CATALOG.md). It lists the actual tracked Excel, Power BI, CSV, TXT, JSON, and PDF files found in that episode's folder. If no local file is listed, use the official course resource or connector/service required by the lesson; do not invent a missing workbook.
+
+## Record and review
+
+After a real study session, add a dated entry to [LEARNING_LOG.md](LEARNING_LOG.md), then update the practice status, review date, and evidence link in [PROGRESS_TRACKER.md](../PROGRESS_TRACKER.md). Leave unattempted episodes blank.
