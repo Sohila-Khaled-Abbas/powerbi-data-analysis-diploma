@@ -27,6 +27,8 @@ This repository is designed to help learners move from watching lessons to build
 | Follow a recommended study routine | [Learning path & study method](docs/LEARNING_PATH.md) |
 | Find a lecture, its notes, or practice folder | [Episode tracker](PROGRESS_TRACKER.md) |
 | Look up M syntax and reusable expressions | [Power Query M cheatsheet](M_LANGUAGE_CHEATSHEET.md) |
+| Practice the concepts independently | [Practice challenges](docs/PRACTICE_CHALLENGES.md) |
+| Follow consistent lecture notes | [Documentation standard](docs/DOCUMENTATION_STANDARD.md) · [Episode template](templates/EPISODE_README_TEMPLATE.md) |
 | Work through a repeatable data-cleaning process | [Power Query workflow playbook](docs/POWER_QUERY_WORKFLOW.md) |
 | Understand the diagrams and end-to-end flow | [Learning diagrams](docs/DIAGRAMS.md) |
 | Contribute notes or improve documentation | [Contribution guide](CONTRIBUTING.md) |
