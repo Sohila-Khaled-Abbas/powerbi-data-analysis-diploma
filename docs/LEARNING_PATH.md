@@ -1,6 +1,6 @@
 # Learning Path & Study Method
 
-> **Release 2 learning system:** use the [competency-based roadmap](LEARNING_ROADMAP.md), [episode-by-episode practice catalog](EPISODE_PRACTICE_CATALOG.md), and [personal learning log](LEARNING_LOG.md) together with this session method.
+> **Release 2 learning system:** use the [competency-based roadmap](LEARNING_ROADMAP.md), [episode-by-episode learning resources](EPISODE_PRACTICE_CATALOG.md), and [personal learning log](LEARNING_LOG.md) together with this session method.
 
 A practical guide for studying the 83-episode diploma. Adapt the pace to your schedule; prioritize practice and the ability to explain your decisions.
 
@@ -64,9 +64,9 @@ Keep a before/after sample, a readable query or M snippet, a short explanation o
 **Study principle:** explain the reason behind a transformation. Memorizing button sequences is not the same as understanding the data problem.
 
 
-## Asset-aware practice
+## Episode-by-episode file-led learning resources
 
-Before starting an episode, check the [episode practice catalog](EPISODE_PRACTICE_CATALOG.md). It lists the actual tracked Excel, Power BI, CSV, TXT, JSON, and PDF files found in that episode's folder. If no local file is listed, use the official course resource or connector/service required by the lesson; do not invent a missing workbook.
+Before starting an episode, use the [episode-by-episode learning resources](EPISODE_PRACTICE_CATALOG.md). Each lesson has a source-file inspection route, a Power Query rebuild task, a PBIX/PBIT reference route where one is tracked, and a validation checkpoint. Binary assets use Git LFS; after cloning, run `git lfs install` and `git lfs pull` to retrieve the real workbooks and reports.
 
 ## Record and review
 
