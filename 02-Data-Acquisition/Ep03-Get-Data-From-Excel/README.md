@@ -64,6 +64,25 @@ This episode folder contains the following hands-on practice assets:
 
 ---
 
+## 🔬 Independent Practice Extension
+
+The snippet below is a navigation pattern. Replace the path, object name, and object kind with values visible in your own workbook's navigation table.
+
+~~~powerquery
+let
+    FilePath = "C:\\Data\\Sales.xlsx",
+    WorkbookObjects = Excel.Workbook(File.Contents(FilePath), null, true),
+    SelectedTable = WorkbookObjects{[Item = "Sales", Kind = "Table"]}[Data]
+in
+    SelectedTable
+~~~
+
+**Compare workbook objects:** Excel Tables, worksheets, and defined names can appear as different objects. Prefer a structured Excel Table when the source is maintained as a table; verify the actual `Item` and `Kind` values instead of assuming them.
+
+**Practice task:** add a row inside the source Excel Table, refresh Power BI, then add an unrelated worksheet and refresh again.
+
+**Validation:** confirm the added table row is included, unrelated objects are excluded, and output columns/types remain correct. A worksheet-based source may behave differently, so test the source you actually use.
+
 ## 🧭 Navigation
 
 [⬅️ Previous: Ep02-Proper-Raw-Data-Structure](../../01-Data-Foundations/Ep02-Proper-Raw-Data-Structure/README.md) | [📂 Module Overview](../README.md) | [🏠 Main Course Catalog](../../README.md) | [Next: Ep04-05-Get-Data-From-CSV ➡️](../../02-Data-Acquisition/Ep04-05-Get-Data-From-CSV/README.md)
