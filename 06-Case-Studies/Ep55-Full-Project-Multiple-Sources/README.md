@@ -56,6 +56,40 @@ This episode folder contains the following hands-on practice assets:
 
 ---
 
+## 🧭 Independent Practice: Validate the Model Before Building Reports
+
+The course project integrates customer, product, and sales sources. Use this exercise to test the model design rather than assuming similarly named columns guarantee correct relationships.
+
+~~~mermaid
+flowchart LR
+    C["Customer source"] --> DC["DimCustomer"]
+    P["Product source"] --> DP["DimProduct"]
+    S["Sales source"] --> F["FactSales"]
+    DC --> F
+    DP --> F
+    D["Date dimension<br/>(if required by analysis)"] --> F
+~~~
+
+**Practice sequence**
+
+1. Profile each workbook independently.
+2. Write a grain statement for each table. For sales, determine whether a row is an order, order line, or another level.
+3. Identify candidate keys and test nulls and duplicates.
+4. Check dimension-key uniqueness before creating one-to-many relationships.
+5. Reconcile a business total from source sales to the transformed fact table.
+6. Record rejected rows, unmatched keys, and assumptions.
+
+**Model validation checklist**
+
+- [ ] Fact-table grain is documented.
+- [ ] Dimension keys are unique on the one-side.
+- [ ] Fact foreign keys have been checked for unmatched values.
+- [ ] Relationships do not create unexpected many-to-many behavior.
+- [ ] Source and model totals reconcile at the same grain.
+- [ ] A date dimension is included only when the source and analysis require it.
+
+> This is an independent modeling exercise. Determine exact field names, granularity, and relationships from the supplied source files; the illustrative names above are not a claim about every field in the lecture data.
+
 ## 🧭 Navigation
 
 [⬅️ Previous: Ep54-Complex-Header-Structure](../../06-Case-Studies/Ep54-Complex-Header-Structure/README.md) | [📂 Module Overview](../README.md) | [🏠 Main Course Catalog](../../README.md) | [Next: Ep56-Multi-Source-Integration-and-Modeling ➡️](../../06-Case-Studies/Ep56-Multi-Source-Integration-and-Modeling/README.md)

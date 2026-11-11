@@ -75,6 +75,37 @@ This episode folder contains the following hands-on practice assets:
 
 ---
 
+## 🧪 Independent Practice: Round-Trip Reshaping
+
+This self-contained example is an independent extension for testing the concept:
+
+~~~powerquery
+let
+    Source = #table(
+        type table [Region = text, Product = text, Jan = number, Feb = number, Mar = number],
+        {
+            {"North", "A", 10, 12, 15},
+            {"South", "A", 8, 9, 11},
+            {"North", "B", 7, 6, 10}
+        }
+    ),
+    LongFormat = Table.UnpivotOtherColumns(
+        Source, {"Region", "Product"}, "Month", "Sales"
+    ),
+    PivotedAgain = Table.Pivot(
+        LongFormat, List.Distinct(LongFormat[Month]),
+        "Month", "Sales", List.Sum
+    )
+in
+    LongFormat
+~~~
+
+To inspect the round-trip result, change the final line from `LongFormat` to `PivotedAgain`.
+
+**Experiments:** explain why Region and Product remain identifiers; reconcile the long-format row count; pivot back and compare values; then add a duplicate Region–Product–Month record and observe why the aggregation function matters.
+
+**Acceptance criteria:** the long result contains one row per original identifier/month combination; pivoted values reconcile when keys are unique. With duplicates, choose and document an aggregation that matches the business meaning.
+
 ## 🧭 Navigation
 
 [⬅️ Previous: Ep39-Invoke-Custom-Function](../../05-Data-Transformation/Ep39-Invoke-Custom-Function/README.md) | [📂 Module Overview](../README.md) | [🏠 Main Course Catalog](../../README.md) | [Next: Ep42-Double-Headers-Issue ➡️](../../05-Data-Transformation/Ep42-Double-Headers-Issue/README.md)
