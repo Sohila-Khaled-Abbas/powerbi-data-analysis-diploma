@@ -23,14 +23,14 @@ This repository is designed to help learners move from watching lessons to build
 
 | I want to… | Open |
 |---|---|
-| Understand the full diploma structure | [Course curriculum](CURRICULUM.md) |
-| Follow a recommended study routine | [Learning path & study method](docs/LEARNING_PATH.md) |
-| Find a lecture, its notes, or practice folder | [Episode tracker](PROGRESS_TRACKER.md) |
+| Understand the full diploma structure | [Course curriculum](CURRICULUM.md) · [Visual roadmap](docs/LEARNING_ROADMAP.md) |
+| Follow a recommended study routine | [Learning path](docs/LEARNING_PATH.md) · [Competency roadmap](docs/LEARNING_ROADMAP.md) · [Personal learning log](docs/LEARNING_LOG.md) |
+| Find a lecture, its notes, or practice folder | [Episode tracker](PROGRESS_TRACKER.md) · [Episode-by-episode asset catalog](docs/EPISODE_PRACTICE_CATALOG.md) |
 | Look up M syntax and reusable expressions | [Power Query M cheatsheet](M_LANGUAGE_CHEATSHEET.md) |
 | Practice the concepts independently | [Practice challenges](docs/PRACTICE_CHALLENGES.md) |
 | Follow consistent lecture notes | [Documentation standard](docs/DOCUMENTATION_STANDARD.md) · [Episode template](templates/EPISODE_README_TEMPLATE.md) |
 | Work through a repeatable data-cleaning process | [Power Query workflow playbook](docs/POWER_QUERY_WORKFLOW.md) |
-| Understand the diagrams and end-to-end flow | [Learning diagrams](docs/DIAGRAMS.md) |
+| Understand the diagrams and end-to-end flow | [Learning diagrams](docs/DIAGRAMS.md) · [SVG assets](assets/diagrams/learning-roadmap.svg) |
 | Contribute notes or improve documentation | [Contribution guide](CONTRIBUTING.md) |
 
 ## The learning journey
@@ -100,11 +100,17 @@ For a detailed routine, checkpoints, and suggested evidence to capture, see the 
 ├── docs/
 │   ├── DIAGRAMS.md
 │   ├── DOCUMENTATION_STANDARD.md
+│   ├── EPISODE_PRACTICE_CATALOG.md
+│   ├── LEARNING_LOG.md
 │   ├── LEARNING_PATH.md
+│   ├── LEARNING_ROADMAP.md
 │   ├── POWER_QUERY_WORKFLOW.md
 │   └── PRACTICE_CHALLENGES.md
 ├── templates/
 │   └── EPISODE_README_TEMPLATE.md
+├── assets/
+│   ├── diagrams/  # SVG learning diagrams
+│   └── icons/     # SVG phase icons
 ├── metadata/
 ├── scripts/
 ├── .github/workflows/
