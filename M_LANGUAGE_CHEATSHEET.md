@@ -366,3 +366,15 @@ in
 **Assumptions and checks:** all selected worksheets have compatible column structures; the sheet name matches exactly; hidden/temp files are considered; and column types are applied and validated after combining. This is a same-named-sheet pattern, not a universal workbook parser.
 ---
 *Created as part of the Microsoft Power BI Data Analysis Diploma Repository.*
+
+
+## Official Microsoft Learn References
+
+Use the official function reference to confirm syntax, parameter types, and behavior:
+
+- [Table.TransformColumns](https://learn.microsoft.com/en-us/powerquery-m/table-transformcolumns)
+- [Table.ColumnsOfType](https://learn.microsoft.com/en-us/powerquery-m/table-columnsoftype)
+- [Text.Trim](https://learn.microsoft.com/en-us/powerquery-m/text-trim)
+- [Table.TransformColumnTypes](https://learn.microsoft.com/en-us/powerquery-m/table-transformcolumntypes)
+- [Number.Round](https://learn.microsoft.com/en-us/powerquery-m/number-round)
+- [RoundingMode.Type](https://learn.microsoft.com/en-us/powerquery-m/roundingmode-type)
