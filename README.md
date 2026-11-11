@@ -99,8 +99,12 @@ For a detailed routine, checkpoints, and suggested evidence to capture, see the 
 ├── 07-Power-Query-Engine-and-M-Language/
 ├── docs/
 │   ├── DIAGRAMS.md
+│   ├── DOCUMENTATION_STANDARD.md
 │   ├── LEARNING_PATH.md
-│   └── POWER_QUERY_WORKFLOW.md
+│   ├── POWER_QUERY_WORKFLOW.md
+│   └── PRACTICE_CHALLENGES.md
+├── templates/
+│   └── EPISODE_README_TEMPLATE.md
 ├── metadata/
 ├── scripts/
 ├── .github/workflows/
