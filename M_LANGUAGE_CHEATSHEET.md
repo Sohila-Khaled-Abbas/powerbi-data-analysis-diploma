@@ -331,7 +331,7 @@ This version consolidates a worksheet named `Sales` from each workbook. Change t
 
 ~~~powerquery
 let
-    Source = Folder.Files("C:\\DataFolder"),
+    Source = Folder.Files("C:\DataFolder"),
     FilteredFiles = Table.SelectRows(
         Source,
         each Text.Lower([Extension]) = ".xlsx"
