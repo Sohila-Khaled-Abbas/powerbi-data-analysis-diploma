@@ -25,7 +25,7 @@ This repository is designed to help learners move from watching lessons to build
 |---|---|
 | Understand the full diploma structure | [Course curriculum](CURRICULUM.md) · [Visual roadmap](docs/LEARNING_ROADMAP.md) |
 | Follow a recommended study routine | [Learning path](docs/LEARNING_PATH.md) · [Competency roadmap](docs/LEARNING_ROADMAP.md) · [Personal learning log](docs/LEARNING_LOG.md) |
-| Find a lecture, its notes, or practice folder | [Episode tracker](PROGRESS_TRACKER.md) · [Episode-by-episode asset catalog](docs/EPISODE_PRACTICE_CATALOG.md) |
+| Find a lecture, its notes, or practice folder | [Episode tracker](PROGRESS_TRACKER.md) · [Episode-by-episode learning resources](docs/EPISODE_PRACTICE_CATALOG.md) |
 | Look up M syntax and reusable expressions | [Power Query M cheatsheet](M_LANGUAGE_CHEATSHEET.md) |
 | Practice the concepts independently | [Practice challenges](docs/PRACTICE_CHALLENGES.md) |
 | Follow consistent lecture notes | [Documentation standard](docs/DOCUMENTATION_STANDARD.md) · [Episode template](templates/EPISODE_README_TEMPLATE.md) |
