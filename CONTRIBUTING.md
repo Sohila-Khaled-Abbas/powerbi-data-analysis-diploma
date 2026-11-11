@@ -21,7 +21,7 @@ Thanks for helping improve this learning repository. Contributions should make t
 
 ## Suggested lecture-note structure
 
-~~~markdown
+~~~~markdown
 # Topic title
 
 ## Learning objectives
@@ -49,7 +49,7 @@ Thanks for helping improve this learning repository. Contributions should make t
 
 ## Further practice
 ...
-~~~
+~~~~
 
 ## Data and licensing
 
