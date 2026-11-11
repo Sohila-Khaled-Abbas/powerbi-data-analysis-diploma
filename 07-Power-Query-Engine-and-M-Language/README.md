@@ -48,6 +48,7 @@ Become an elite Power Query architect by mastering M Language code and engine in
 | **80** | Null Coalescing Operator | `9m 17s` | [Ep80-Null-Coalescing-Operator](Ep80-Null-Coalescing-Operator/README.md) | [YouTube](https://www.youtube.com/watch?v=Tf7yCfw9TeA) | [Sample Data](https://docs.google.com/spreadsheets/d/1h9TgU98uAohxtM3oss8usbNg2oL09F7z/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 | **81** | Try & Otherwise | `12m 17s` | [Ep81-Try-and-Otherwise](Ep81-Try-and-Otherwise/README.md) | [YouTube](https://www.youtube.com/watch?v=YTZEzXVY8IA) | [Sample Data](https://docs.google.com/spreadsheets/d/1MCI_gLq5mbBFYjSXrsDS-Vq0ih8FF8jP/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 | **82** | Reference Outside Scope | `8m 11s` | [Ep82-Reference-Outside-Scope](Ep82-Reference-Outside-Scope/README.md) | [YouTube](https://www.youtube.com/watch?v=M4sCUumYySA) | [Sample Data](https://docs.google.com/spreadsheets/d/1WS-2xNo4vVyKoo2OpGcu5sUT80aQNJ0B/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
+| **83** | Complex Date Transformations | `19m 58s` | [Ep83-Complex-Date-Transformations](Ep83-Complex-Date-Transformations/README.md) | [YouTube](https://www.youtube.com/watch?v=XK3_aE9c7qs) | [Sample Data](https://docs.google.com/spreadsheets/d/1E3DG8f0uSnhfkGwGHvr0grmO01ytu6_e/edit?usp=sharing&ouid=106512834842891247892&rtpof=true&sd=true) |
 
 ---
 

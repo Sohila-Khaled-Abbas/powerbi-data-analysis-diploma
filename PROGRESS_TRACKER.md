@@ -92,3 +92,4 @@ Use this tracker to log your self-study progress through the diploma. Check off 
 | [ ] | **80** | Null Coalescing Operator | `9m 17s` | [Ep80-Null-Coalescing-Operator](07-Power-Query-Engine-and-M-Language/Ep80-Null-Coalescing-Operator/README.md) | | |
 | [ ] | **81** | Try & Otherwise | `12m 17s` | [Ep81-Try-and-Otherwise](07-Power-Query-Engine-and-M-Language/Ep81-Try-and-Otherwise/README.md) | | |
 | [ ] | **82** | Reference Outside Scope | `8m 11s` | [Ep82-Reference-Outside-Scope](07-Power-Query-Engine-and-M-Language/Ep82-Reference-Outside-Scope/README.md) | | |
+| [ ] | **83** | Complex Date Transformations | `19m 58s` | [Ep83-Complex-Date-Transformations](07-Power-Query-Engine-and-M-Language/Ep83-Complex-Date-Transformations/README.md) | | |
