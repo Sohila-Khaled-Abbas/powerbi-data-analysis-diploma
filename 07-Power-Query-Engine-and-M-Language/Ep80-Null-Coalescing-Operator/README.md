@@ -39,9 +39,10 @@ Mastering the Null Coalescing Operator (??). Teaches concise fallback logic to r
 
 This episode folder contains the following hands-on practice assets:
 
+- 📊 **`Null Coalescing Operator.pbix`** (`21.6 KB (22,086 bytes)`) — Power BI Desktop solution model
 - 📄 **`Null Coalescing Operator.xlsx`** (`11.6 KB (11,888 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

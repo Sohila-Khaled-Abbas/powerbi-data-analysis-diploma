@@ -38,9 +38,10 @@
 
 This episode folder contains the following hands-on practice assets:
 
+- 📊 **`Complex_Date_Transformations.pbix`** (`22.8 KB (23,304 bytes)`) — Power BI Desktop solution model
 - 📄 **`Complex_Date_Transformations.xlsx`** (`11.0 KB (11,268 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## ✅ Self-Study Checklist

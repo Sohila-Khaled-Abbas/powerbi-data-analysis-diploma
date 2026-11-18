@@ -31,6 +31,13 @@
 - [Dataset 1](https://drive.google.com/drive/folders/1dU6m1ozyixXW7qhCUWvTXmsqRSHjnT2j?usp=sharing)
 
 
+
+---
+
+## 📁 Practice Files in this Repository
+
+- *Included with the lecture instructions / no local dataset required.*
+
 ---
 
 ## ✅ Self-Study Checklist

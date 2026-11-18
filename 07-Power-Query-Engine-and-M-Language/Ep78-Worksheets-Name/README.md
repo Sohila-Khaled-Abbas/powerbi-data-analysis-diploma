@@ -42,8 +42,16 @@ This episode folder contains the following hands-on practice assets:
 
 - 📄 **`HRDatabase.xlsx`** (`14.6 KB (14,971 bytes)`) — Excel practice dataset
 - 📄 **`HRDatabase2.xlsx`** (`9.2 KB (9,468 bytes)`) — Excel practice dataset
+- 📊 **`Worksheet Names.pbix`** (`89.5 KB (91,615 bytes)`) — Power BI Desktop solution model
+- 📄 **`Employees Datebase/Administration.xlsx`** (`14.6 KB (14,990 bytes)`) — Excel practice dataset
+- 📄 **`Employees Datebase/Business Development.xlsx`** (`15.9 KB (16,312 bytes)`) — Excel practice dataset
+- 📄 **`Employees Datebase/Customer Service.xlsx`** (`17.0 KB (17,452 bytes)`) — Excel practice dataset
+- 📄 **`Employees Datebase/Finance.xlsx`** (`17.8 KB (18,224 bytes)`) — Excel practice dataset
+- 📄 **`Employees Datebase/Human Resources.xlsx`** (`15.9 KB (16,322 bytes)`) — Excel practice dataset
+- 📄 **`Employees Datebase/IT.xlsx`** (`16.5 KB (16,871 bytes)`) — Excel practice dataset
+- 📄 **`Employees Datebase/Legal.xlsx`** (`15.9 KB (16,314 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

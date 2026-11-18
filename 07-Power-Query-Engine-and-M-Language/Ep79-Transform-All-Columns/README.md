@@ -40,9 +40,10 @@ CleanedTable = Table.TransformColumns(Source, TransformList)
 
 This episode folder contains the following hands-on practice assets:
 
-- 📄 **`Transform All Columns.xlsx`** (`141.7 KB (145,063 bytes)`) — Excel practice dataset
+- 📊 **`Transform All Columns.pbix`** (`23.6 KB (24,180 bytes)`) — Power BI Desktop solution model
+- 📄 **`Transform All Columns.xlsx`** (`141.9 KB (145,331 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist

@@ -42,9 +42,10 @@ Status = if Result[HasError] then Result[Error][Message] else Result[Value]
 
 This episode folder contains the following hands-on practice assets:
 
+- 📊 **`Try and Otherwise.pbix`** (`26.1 KB (26,692 bytes)`) — Power BI Desktop solution model
 - 📄 **`Try and Otherwise.xlsx`** (`14.9 KB (15,219 bytes)`) — Excel practice dataset
 
-> 💡 **How to use:** Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
+> 💡 **How to use:** Open `.pbix` files in **Microsoft Power BI Desktop**; and Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## 📝 Self-Study & Hands-On Practice Checklist
