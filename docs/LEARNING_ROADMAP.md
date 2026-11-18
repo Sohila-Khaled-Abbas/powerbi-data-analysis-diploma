@@ -2,7 +2,7 @@
 
 <img src="../assets/icons/foundations.svg" width="44" alt="Foundations icon"/> <img src="../assets/icons/acquisition.svg" width="44" alt="Acquisition icon"/> <img src="../assets/icons/extraction.svg" width="44" alt="Extraction icon"/> <img src="../assets/icons/governance.svg" width="44" alt="Governance icon"/> <img src="../assets/icons/transformation.svg" width="44" alt="Transformation icon"/> <img src="../assets/icons/case-studies.svg" width="44" alt="Case studies icon"/> <img src="../assets/icons/m-language.svg" width="44" alt="M language icon"/>
 
-A competency-based roadmap for the 83-episode course. Follow the course order, but judge progress by what you can reproduce and explain—not by videos watched.
+A competency-based roadmap for the 84-episode course. Follow the course order, but judge progress by what you can reproduce and explain—not by videos watched.
 
 ## Roadmap overview
 
@@ -16,7 +16,7 @@ A competency-based roadmap for the 83-episode course. Follow the course order, b
 | 04 · Governance | 24–31 | Manage privacy, credentials, storage modes, dataflows, and parameters | Explain refresh/security boundaries and parameterize a reusable template |
 | 05 · Transformation | 32–47 | Clean types, reshape, append, merge, and create columns | Transform unfamiliar source data while preserving grain and reconciling rows |
 | 06 · Case studies | 48–64 | Solve messy, multi-source analytical problems | Deliver an explainable end-to-end Power Query solution |
-| 07 · M & engine | 65–83 | Write M, use functions, handle errors, and build dynamic transformations | Write and test reusable M logic with explicit assumptions and edge cases |
+| 07 · M & engine | 65–84 | Write M, use functions, handle errors, and build dynamic transformations | Write and test reusable M logic with explicit assumptions and edge cases |
 
 ## Recommended 8-week pacing
 

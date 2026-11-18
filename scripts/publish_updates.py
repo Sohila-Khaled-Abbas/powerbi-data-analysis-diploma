@@ -139,7 +139,7 @@ def refresh_all_practice_files():
 
 
 def refresh_totals():
-    """Ensure README.md, CURRICULUM.md, and PROGRESS_TRACKER.md reflect the current total episodes."""
+    """Ensure README.md, CURRICULUM.md, PROGRESS_TRACKER.md and docs reflect the current total episodes."""
     meta_path = REPO_ROOT / "metadata" / "course_metadata.json"
     if not meta_path.exists():
         return
@@ -155,7 +155,8 @@ def refresh_totals():
         t = re.sub(r'complete \d+-lecture Microsoft Power BI', f'complete {total_eps}-lecture Microsoft Power BI', t)
         t = re.sub(r'all \d+ video lectures into', f'all {total_eps} video lectures into', t)
         t = re.sub(r'Master Episode Directory \(All \d+ Lectures\)', f'Master Episode Directory (All {total_eps} Lectures)', t)
-        t = re.sub(r'Ep\.\s*65\s*-\s*\d+', f'Ep. 65 - {total_eps}', t)
+        t = re.sub(r'contains \*\*\d+ episodes\*\* \(01[–-]\d+\)', f'contains **{total_eps} episodes** (01–{total_eps})', t)
+        t = re.sub(r'65[–-]\d+', f'65–{total_eps}', t)
         readme_path.write_text(t, encoding="utf-8")
 
     # 2. PROGRESS_TRACKER.md
@@ -171,6 +172,15 @@ def refresh_totals():
         t = cur_path.read_text(encoding="utf-8")
         t = re.sub(r'\(Ep\.\s*65\s*-\s*\d+\)', f'(Ep. 65 - {total_eps})', t)
         cur_path.write_text(t, encoding="utf-8")
+
+    # 4. docs/LEARNING_ROADMAP.md and docs/LEARNING_PATH.md
+    for doc in ["LEARNING_ROADMAP.md", "LEARNING_PATH.md"]:
+        dp = REPO_ROOT / "docs" / doc
+        if dp.exists():
+            dt = dp.read_text(encoding="utf-8")
+            dt = re.sub(r'\d+-episode', f'{total_eps}-episode', dt)
+            dt = re.sub(r'65[–-]\d+', f'65–{total_eps}', dt)
+            dp.write_text(dt, encoding="utf-8")
 
 
 def git_publish(dry_run: bool = False):

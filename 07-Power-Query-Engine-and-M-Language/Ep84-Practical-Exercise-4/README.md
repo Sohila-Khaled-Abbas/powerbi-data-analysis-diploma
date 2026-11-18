@@ -36,8 +36,12 @@
 
 ## 📁 Practice Files in this Repository
 
-- *Included with the lecture instructions / no local dataset required.*
+This episode folder contains the following hands-on practice assets:
 
+- 📄 **`Ep. 84-1.xlsx`** (`21.2 KB (21,703 bytes)`) — Excel practice dataset
+- 📄 **`Ep. 84-2.xlsx`** (`14.4 KB (14,735 bytes)`) — Excel practice dataset
+
+> 💡 **How to use:** Open `.xlsx` files in **Microsoft Excel** to inspect source tables, verify data types, and follow along with the transformations.
 ---
 
 ## ✅ Self-Study Checklist

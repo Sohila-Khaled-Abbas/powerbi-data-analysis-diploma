@@ -110,6 +110,7 @@ flowchart TD
 - **Ep 81:** Exception Handling in Production with `try ... otherwise`.
 - **Ep 82:** Reference Outside Scope: Scoping Rules, Closures & Lexical Environments in M Language.
 - **Ep 83:** Complex Date Transformations: Date Calculations, Durations, Quarters & Custom Time Periods.
+- **Ep 84:** Practical Exercise - 4: Capstone Multi-Source M Mashup & Dynamic Schema Consolidation.
 
 ---
 *Created as part of the Microsoft Power BI Data Analysis Diploma Repository.*

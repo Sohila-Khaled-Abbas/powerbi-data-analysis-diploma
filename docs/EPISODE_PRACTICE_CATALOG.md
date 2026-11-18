@@ -2601,6 +2601,38 @@ Save the query output or a before/after workbook and record row counts, types, a
 
 ---
 
+---
+
+### Ep. 84 · Practical Exercise - 4
+
+**Lesson notes:** [Open the episode README](<../07-Power-Query-Engine-and-M-Language/Ep84-Practical-Exercise-4/README.md>)
+
+**Actual files tracked in this lesson folder:**
+
+- [`Ep. 84-1.xlsx`](<../07-Power-Query-Engine-and-M-Language/Ep84-Practical-Exercise-4/Ep.%2084-1.xlsx>) — Excel workbook
+- [`Ep. 84-2.xlsx`](<../07-Power-Query-Engine-and-M-Language/Ep84-Practical-Exercise-4/Ep.%2084-2.xlsx>) — Excel workbook
+
+**Excel workbook study**
+
+Open `Ep. 84-1.xlsx` and `Ep. 84-2.xlsx` in Excel. Inspect the structured tables, worksheet hierarchies, and column schemas across both workbooks. Identify matching keys, structural anomalies, and fields requiring normalization and consolidation.
+
+**Power BI build/reference step**
+
+Replicate the comprehensive Power Query mashup demonstrated in the lecture: ingest both workbooks, apply defensive transformations, resolve header inconsistencies, and consolidate records into a single analytical data model.
+
+**Episode-specific task**
+
+Execute Practical Exercise 4 by combining multi-workbook inputs into a unified schema using advanced M Language expressions.
+
+**Validation checkpoint**
+
+Verify unified row counts against both source files; confirm zero cell errors and correct data typing.
+
+**Evidence to keep**
+
+Save your validated `.pbix` solution model or consolidated Excel workbook with documented query steps and row reconciliation.
+
+
 ## Final review checklist
 
 - [ ] I recorded the source object, actual field names, and row grain.

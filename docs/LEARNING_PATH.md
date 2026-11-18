@@ -2,7 +2,7 @@
 
 > **Release 2 learning system:** use the [competency-based roadmap](LEARNING_ROADMAP.md), [episode-by-episode learning resources](EPISODE_PRACTICE_CATALOG.md), and [personal learning log](LEARNING_LOG.md) together with this session method.
 
-A practical guide for studying the 83-episode diploma. Adapt the pace to your schedule; prioritize practice and the ability to explain your decisions.
+A practical guide for studying the 84-episode diploma. Adapt the pace to your schedule; prioritize practice and the ability to explain your decisions.
 
 ## Study in six passes
 
@@ -23,7 +23,7 @@ A practical guide for studying the 83-episode diploma. Adapt the pace to your sc
 4. **Governance (24–31):** privacy, credentials, storage modes, dataflows, and parameters.
 5. **Transformation (32–47):** types, locale, custom columns, reshaping, append, and merge.
 6. **Case studies (48–64):** practical data-cleaning and integration problems.
-7. **M and engine (65–83):** M fundamentals, custom functions, errors, and dynamic transformations.
+7. **M and engine (65–84):** M fundamentals, custom functions, errors, and dynamic transformations.
 
 ## Session checklist
 

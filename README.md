@@ -9,7 +9,7 @@
 [![Power BI](https://img.shields.io/badge/Platform-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111)](https://powerbi.microsoft.com/desktop/)
 [![Power Query](https://img.shields.io/badge/ETL-Power%20Query-7442A6?style=for-the-badge)](M_LANGUAGE_CHEATSHEET.md)
 
-**A practical documentation hub** for the 83-episode Microsoft Power BI Data Analysis Diploma taught by Eng. Essam Elsayed (MCT).
+**A practical documentation hub** for the 84-episode Microsoft Power BI Data Analysis Diploma taught by Eng. Essam Elsayed (MCT).
 
 [Course playlist](https://www.youtube.com/playlist?list=PLkYJ59mAhUsMbZQ4AmBmGt0EEyrTrg5mX) · [Curriculum](CURRICULUM.md) · [Learning path](docs/LEARNING_PATH.md) · [M cheatsheet](M_LANGUAGE_CHEATSHEET.md)
 
@@ -58,9 +58,9 @@ flowchart TD
 | [04 · Governance & Automation](04-Governance-and-Automation/README.md) | 24–31 | Privacy, credentials, dataflows, storage modes, and parameters |
 | [05 · Data Transformation](05-Data-Transformation/README.md) | 32–47 | Data types, columns, pivoting, appending, and joins |
 | [06 · Case Studies](06-Case-Studies/README.md) | 48–64 | Real-world cleaning, integration, and analytical scenarios |
-| [07 · Engine & M Language](07-Power-Query-Engine-and-M-Language/README.md) | 65–83 | M fundamentals, custom functions, errors, and dynamic transformations |
+| [07 · Engine & M Language](07-Power-Query-Engine-and-M-Language/README.md) | 65–84 | M fundamentals, custom functions, errors, and dynamic transformations |
 
-> **Episode count:** The documented curriculum contains **83 episodes** (01–83). Some lecture folders intentionally group multiple related episodes. Use the curriculum and tracker as the episode-level source of truth.
+> **Episode count:** The documented curriculum contains **84 episodes** (01–84). Some lecture folders intentionally group multiple related episodes. Use the curriculum and tracker as the episode-level source of truth.
 
 ## A practical learning loop
 

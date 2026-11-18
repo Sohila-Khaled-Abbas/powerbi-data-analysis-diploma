@@ -484,16 +484,25 @@ def append_readme_table_row(ep: dict, folder_name: str, module_folder: str):
 
 
 def append_progress_tracker_row(ep: dict, folder_name: str, module_folder: str):
-    """Append a new checkbox row to PROGRESS_TRACKER.md."""
+    """Append a new checkbox row to PROGRESS_TRACKER.md with exact column count."""
     idx = ep["index"]
     title_clean = clean_title(ep["title"])
     duration = ep.get("formatted_duration", "?")
     readme_link = f"{module_folder}/{folder_name}/README.md"
 
-    new_row = f"| [ ] | **{idx:02d}** | {title_clean} | `{duration}` | [{folder_name}]({readme_link}) | | |"
-
     tracker_text = PROGRESS_FILE.read_text(encoding="utf-8")
     lines = tracker_text.split('\n')
+    
+    # Dynamically detect table column count from header
+    col_count = 10
+    for line in lines:
+        if line.strip().startswith('| Status') or line.strip().startswith('|Status'):
+            col_count = len([c for c in line.strip()[1:-1].split('|')])
+            break
+            
+    extra_cols = " |" * max(0, col_count - 5)
+    new_row = f"| [ ] | **{idx:02d}** | {title_clean} | `{duration}` | [{folder_name}]({readme_link}) |{extra_cols}"
+
     insert_at = None
     for i in range(len(lines) - 1, -1, -1):
         if lines[i].strip().startswith('|') and not lines[i].strip().startswith('|:'):
