@@ -95,3 +95,4 @@ Use this tracker to log your self-study progress through the diploma. A checked 
 | [ ] | **81** | Try & Otherwise | `12m 17s` | [Ep81-Try-and-Otherwise](07-Power-Query-Engine-and-M-Language/Ep81-Try-and-Otherwise/README.md) | | | | | |
 | [ ] | **82** | Reference Outside Scope | `8m 11s` | [Ep82-Reference-Outside-Scope](07-Power-Query-Engine-and-M-Language/Ep82-Reference-Outside-Scope/README.md) | | | | | |
 | [ ] | **83** | Complex Date Transformations | `19m 58s` | [Ep83-Complex-Date-Transformations](07-Power-Query-Engine-and-M-Language/Ep83-Complex-Date-Transformations/README.md) | | | | | |
+| [ ] | **84** | Practical Exercise - 4 | `31m 25s` | [Ep84-Practical-Exercise-4](07-Power-Query-Engine-and-M-Language/Ep84-Practical-Exercise-4/README.md) | | |
